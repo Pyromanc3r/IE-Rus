@@ -1,0 +1,1002 @@
+# BLOCKS	///   Ломал глаза, форматировал, сокращал, подгонял текст в рамки и делился своими знаниями Pyromanc3r, 2023г. (github.com/Pyromanc3r)   ///
+tile.ImmersiveEngineering.ore.Copper.name=Медная руда
+tile.ImmersiveEngineering.ore.Aluminum.name=Бокситовая руда
+tile.ImmersiveEngineering.ore.Lead.name=Свинцовая руда
+tile.ImmersiveEngineering.ore.Silver.name=Серебряная руда
+tile.ImmersiveEngineering.ore.Nickel.name=Никелевая руда
+tile.ImmersiveEngineering.storage.Copper.name=Медный блок
+tile.ImmersiveEngineering.storage.Aluminum.name=Алюминиевый блок
+tile.ImmersiveEngineering.storage.Lead.name=Свинцовый блок
+tile.ImmersiveEngineering.storage.Silver.name=Серебряный блок
+tile.ImmersiveEngineering.storage.Nickel.name=Никелевый блок
+tile.ImmersiveEngineering.storage.Constantan.name=Константановый блок
+tile.ImmersiveEngineering.storage.Electrum.name=Электрумовый блок
+tile.ImmersiveEngineering.storage.Steel.name=Стальной блок
+tile.ImmersiveEngineering.storage.CoilCopper.name=Катушка медного провода
+tile.ImmersiveEngineering.storage.CoilElectrum.name=Катушка электрумового провода
+tile.ImmersiveEngineering.storage.CoilHV.name=Катушка высоковольтного провода
+
+tile.ImmersiveEngineering.storageSlab.Copper.name=Медная плита
+tile.ImmersiveEngineering.storageSlab.Aluminum.name=Алюминиевая плита
+tile.ImmersiveEngineering.storageSlab.Lead.name=Свинцовая плита
+tile.ImmersiveEngineering.storageSlab.Silver.name=Серебряная плита
+tile.ImmersiveEngineering.storageSlab.Nickel.name=Никелевая плита
+tile.ImmersiveEngineering.storageSlab.Constantan.name=Константановая плита
+tile.ImmersiveEngineering.storageSlab.Electrum.name=Электрумовая плита
+tile.ImmersiveEngineering.storageSlab.Steel.name=Стальная плита
+
+tile.ImmersiveEngineering.metalDevice.connectorLV.name=Низковольтный коннектор
+tile.ImmersiveEngineering.metalDevice.capacitorLV.name=Низковольтный конденсатор
+tile.ImmersiveEngineering.metalDevice.connectorMV.name=Средневольтный коннектор
+tile.ImmersiveEngineering.metalDevice.capacitorMV.name=Средневольтный конденсатор
+tile.ImmersiveEngineering.metalDevice.transformer.name=Средневольтный трансформатор
+tile.ImmersiveEngineering.metalDevice.relayHV.name=Высоковольтное реле
+tile.ImmersiveEngineering.metalDevice.connectorHV.name=Высоковольтный коннектор
+tile.ImmersiveEngineering.metalDevice.capacitorHV.name=Высоковольтный конденсатор
+tile.ImmersiveEngineering.metalDevice.transformerHV.name=Высоковольтный трансформатор
+tile.ImmersiveEngineering.metalDevice.dynamo.name=Кинетический генератор
+tile.ImmersiveEngineering.metalDevice.thermoelectricGen.name=Термоэлектрический генератор
+tile.ImmersiveEngineering.metalDevice.conveyorBelt.name=Конвейерная лента
+tile.ImmersiveEngineering.metalDevice.furnaceHeater.name=Внешний нагреватель
+tile.ImmersiveEngineering.metalDevice.sorter.name=Сортировщик
+tile.ImmersiveEngineering.metalDevice.sampleDrill.name=Колонковый бур
+tile.ImmersiveEngineering.metalDevice.conveyorDropper.name=Сбрасывающая конвейерная лента
+
+tile.ImmersiveEngineering.metalMultiblock.lightningRod.name=Основание молниеотвода
+tile.ImmersiveEngineering.metalMultiblock.dieselGenerator.name=Дизельный генератор
+tile.ImmersiveEngineering.metalMultiblock.industrialSqueezer.name=Блок промышленной выжималки
+tile.ImmersiveEngineering.metalMultiblock.fermenter.name=Блок ферментера
+tile.ImmersiveEngineering.metalMultiblock.refinery.name=Очиститель биотоплива
+tile.ImmersiveEngineering.metalMultiblock.crusher.name=Дробитель
+tile.ImmersiveEngineering.metalMultiblock.bucketWheel.name=Ковшовое колесо
+tile.ImmersiveEngineering.metalMultiblock.excavator.name=Роторный экскаватор
+tile.ImmersiveEngineering.metalMultiblock.arcFurnace.name=Дуговая печь
+tile.ImmersiveEngineering.metalMultiblock.tank.name=Жидкостный резервуар
+tile.ImmersiveEngineering.metalMultiblock.silo.name=Силосная башня
+tile.ImmersiveEngineering.metalMultiblock.assembler.name=Сборочный автомат
+tile.ImmersiveEngineering.metalMultiblock.bottlingMachine.name=Разливочная машина
+tile.ImmersiveEngineering.metalMultiblock.metalPress.name=Металлоформовочный пресс
+
+tile.ImmersiveEngineering.metalDecoration.fence.name=Стальной забор
+tile.ImmersiveEngineering.metalDecoration.scaffolding.name=Стальные строительные леса
+tile.ImmersiveEngineering.metalDecoration.lantern.name=Фонарь
+tile.ImmersiveEngineering.metalDecoration.structuralArm.name=Структурная опора
+tile.ImmersiveEngineering.metalDecoration.radiator.name=Блок радиатора
+tile.ImmersiveEngineering.metalDecoration.heavyEngineering.name=Тяжёлый инженерный блок
+tile.ImmersiveEngineering.metalDecoration.generator.name=Блок генератора
+tile.ImmersiveEngineering.metalDecoration.lightEngineering.name=Лёгкий инженерный блок
+tile.ImmersiveEngineering.metalDecoration.connectorStructural.name=Коннектор декоративного кабеля
+tile.ImmersiveEngineering.metalDecoration.wallMount.name=Стальное настенное крепление
+tile.ImmersiveEngineering.metalDecoration.sheetMetal.name=Блок листового металла
+tile.ImmersiveEngineering.metalDecoration.scaffolding2.name=Стальные строительные леса (крытые)
+tile.ImmersiveEngineering.metalDecoration.aluminiumFence.name=Алюминиевый забор
+tile.ImmersiveEngineering.metalDecoration.aluminiumScaffolding.name=Алюминиевые строительные леса
+tile.ImmersiveEngineering.metalDecoration.aluminiumScaffolding2.name=Алюминиевые строительные леса (крытые)
+tile.ImmersiveEngineering.metalDecoration.aluminiumStructuralArm.name=Алюминиевая структурная опора
+tile.ImmersiveEngineering.metalDecoration2.sheetMetalAlu.name=Алюминиевый блок листового металла
+tile.ImmersiveEngineering.metalDecoration2.sheetMetalLead.name=Свинцовый блок листового металла
+tile.ImmersiveEngineering.metalDecoration2.sheetMetalSteel.name=Стальной блок листового металла
+
+tile.ImmersiveEngineering.metalDevice2.breakerSwitch.name=Рубильник
+tile.ImmersiveEngineering.metalDevice2.energyMeter.name=Измеритель напряжения в цепи
+tile.ImmersiveEngineering.metalDevice2.electricLantern.name=Электрический фонарь
+tile.ImmersiveEngineering.metalDevice2.floodlight.name=Прожектор
+tile.ImmersiveEngineering.metalDevice2.fluidPipe.name=Труба для жидкости
+tile.ImmersiveEngineering.metalDevice2.fluidPump.name=Насос для жидкости
+tile.ImmersiveEngineering.metalDevice2.barrel.name=Металлическая бочка
+tile.ImmersiveEngineering.metalDevice2.capacitorCreative.name=Креативный Конденсатор
+tile.ImmersiveEngineering.metalDevice2.redstoneBreaker.name=Прерыватель цепи на красном камне
+tile.ImmersiveEngineering.metalDevice2.chargingStation.name=Зарядная станция
+tile.ImmersiveEngineering.metalDevice2.blastFurnacePreheater.name=Вспомогательный нагреватель доменной печи
+
+tile.ImmersiveEngineering.treatedWood.0.name=Обработанные доски
+tile.ImmersiveEngineering.treatedWood.1.name=Обработанные доски
+tile.ImmersiveEngineering.treatedWood.2.name=Обработанные доски
+
+tile.ImmersiveEngineering.woodenDevice.post.name=Столб из обработанной древесины
+tile.ImmersiveEngineering.woodenDevice.watermill.name=Водяное колесо
+tile.ImmersiveEngineering.woodenDevice.windmill.name=Ветряная мельница
+tile.ImmersiveEngineering.woodenDevice.windmillAdvanced.name=Улучшенная ветряная мельница
+tile.ImmersiveEngineering.woodenDevice.crate.name=Деревянный ящик для хранения
+tile.ImmersiveEngineering.woodenDevice.modificationWorkbench.name=Верстак инженера
+tile.ImmersiveEngineering.woodenDevice.barrel.name=Деревянная бочка
+
+tile.ImmersiveEngineering.woodenDecoration.treatedWood.name=Обработанные доски
+tile.ImmersiveEngineering.woodenDecoration.fence.name=Деревянный обработанный забор
+tile.ImmersiveEngineering.woodenDecoration.slab0.name=Деревянная обработанная плита
+tile.ImmersiveEngineering.woodenDecoration.slab1.name=Деревянная обработанная плита
+tile.ImmersiveEngineering.woodenDecoration.doubleSlab.name=Деревянная обработанная плита (двойная)
+tile.ImmersiveEngineering.woodenDecoration.scaffolding.name=Леса из обработанной древесины
+tile.ImmersiveEngineering.woodenDecoration.wallMount.name=Крепление из обработанной древесины
+
+tile.ImmersiveEngineering.woodenStairs.name=Деревянные обработанные ступеньки
+tile.ImmersiveEngineering.woodenStairs1.name=Деревянные обработанные ступеньки (рельсы)
+tile.ImmersiveEngineering.woodenStairs2.name=Деревянные обработанные ступеньки (решетка)
+
+tile.ImmersiveEngineering.stoneDevice.hempcrete.name=Костробетон
+tile.ImmersiveEngineering.stoneDevice.cokeOven.name=Коксовая печь
+tile.ImmersiveEngineering.stoneDevice.blastFurnace.name=Упрощённая доменная печь
+tile.ImmersiveEngineering.stoneDevice.coalCoke.name=Блок коксового угля
+tile.ImmersiveEngineering.stoneDevice.insulatorGlass.name=Изоляционное стекло
+tile.ImmersiveEngineering.stoneDevice.blastFurnaceAdvanced.name=Продвинутая доменная печь
+
+tile.ImmersiveEngineering.stoneDecoration.hempcrete.name=Костробетон
+tile.ImmersiveEngineering.stoneDecoration.cokeBrick.name=Кирпич коксовой печи
+tile.ImmersiveEngineering.stoneDecoration.blastBrick.name=Кирпич упрощённой доменной печи
+tile.ImmersiveEngineering.stoneDecoration.coalCoke.name=Блок коксового угля
+tile.ImmersiveEngineering.stoneDecoration.concrete.name=Бетон
+tile.ImmersiveEngineering.stoneDecoration.concreteTile.name=Кафельный бетон
+tile.ImmersiveEngineering.stoneDecoration.blastBrickReinforced.name=Укреплённый кирпич доменной печи
+tile.ImmersiveEngineering.concreteStairs.name=Ступени из бетона
+tile.ImmersiveEngineering.concreteTileStairs.name=Ступени из кафельного бетона
+tile.ImmersiveEngineering.stoneSlab.hempcrete.name=Плита из костробетона
+tile.ImmersiveEngineering.stoneSlab.concrete.name=Плита из бетона
+tile.ImmersiveEngineering.stoneSlab.concreteTile.name=Плита из кафельного бетона
+
+tile.ImmersiveEngineering.hemp.name=Промышленная конопля
+
+tile.ImmersiveEngineering.clothDevice.balloon.name=Воздушный шар
+
+#Hydraulicraft Support
+tile.harvesterTrolley.ieCrop.name=Сборщик промышленной конопли
+
+fluid.creosote=Креозот
+fluid.plantoil=Растительное масло
+fluid.ethanol=Этанол
+fluid.biodiesel=Биодизель
+
+
+# ITEMS
+item.ImmersiveEngineering.metal.ingotCopper.name=Медный слиток
+item.ImmersiveEngineering.metal.ingotAluminum.name=Алюминиевый слиток
+item.ImmersiveEngineering.metal.ingotLead.name=Свинцовый слиток
+item.ImmersiveEngineering.metal.ingotSilver.name=Серебряный слиток
+item.ImmersiveEngineering.metal.ingotNickel.name=Никелевый слиток
+item.ImmersiveEngineering.metal.ingotConstantan.name=Константановый слиток
+item.ImmersiveEngineering.metal.ingotElectrum.name=Электрумовый слиток
+item.ImmersiveEngineering.metal.ingotSteel.name=Стальной слиток
+item.ImmersiveEngineering.metal.dustIron.name=Железная пыль
+item.ImmersiveEngineering.metal.dustGold.name=Золотая пыль
+item.ImmersiveEngineering.metal.dustCopper.name=Медная пыль
+item.ImmersiveEngineering.metal.dustAluminum.name=Алюминиевая пыль
+item.ImmersiveEngineering.metal.dustLead.name=Свинцовая пыль
+item.ImmersiveEngineering.metal.dustSilver.name=Серебряная пыль
+item.ImmersiveEngineering.metal.dustNickel.name=Никелевая пыль
+item.ImmersiveEngineering.metal.dustConstantan.name=Константановая пыль
+item.ImmersiveEngineering.metal.dustElectrum.name=Электрумовая пыль
+item.ImmersiveEngineering.metal.dustSteel.name=Стальная пыль
+item.ImmersiveEngineering.metal.dustCoke.name=Коксовая пыль
+item.ImmersiveEngineering.metal.dustQuartz.name=Кварцевая пыль
+item.ImmersiveEngineering.metal.dustHOPGraphite.name=Пыль ВОП графита
+item.ImmersiveEngineering.metal.ingotHOPGraphite.name=Слиток ВОП графита
+item.ImmersiveEngineering.metal.nuggetIron.name=Железный самородок
+item.ImmersiveEngineering.metal.nuggetCopper.name=Медный самородок
+item.ImmersiveEngineering.metal.nuggetAluminum.name=Алюминиевый самородок
+item.ImmersiveEngineering.metal.nuggetLead.name=Свинцовый самородок
+item.ImmersiveEngineering.metal.nuggetSilver.name=Серебряный самородок
+item.ImmersiveEngineering.metal.nuggetNickel.name=Никелевый самородок
+item.ImmersiveEngineering.metal.nuggetConstantan.name=Константановый самородок
+item.ImmersiveEngineering.metal.nuggetElectrum.name=Электрумовый самородок
+item.ImmersiveEngineering.metal.nuggetSteel.name=Стальной самородок
+item.ImmersiveEngineering.metal.plateIron.name=Железная пластина
+item.ImmersiveEngineering.metal.plateCopper.name=Медная пластина
+item.ImmersiveEngineering.metal.plateAluminum.name=Алюминиевая пластина
+item.ImmersiveEngineering.metal.plateLead.name=Свинцовая пластина
+item.ImmersiveEngineering.metal.plateSilver.name=Серебряная пластина
+item.ImmersiveEngineering.metal.plateNickel.name=Никелевая пластина
+item.ImmersiveEngineering.metal.plateConstantan.name=Константановая пластина
+item.ImmersiveEngineering.metal.plateElectrum.name=Электрумовая пластина
+item.ImmersiveEngineering.metal.plateSteel.name=Стальная пластина
+
+
+item.ImmersiveEngineering.material.treatedStick.name=Обработанная палка
+item.ImmersiveEngineering.material.waterwheelSegment.name=Часть водяного колеса
+item.ImmersiveEngineering.material.windmillBlade.name=Лопасть ветряной мельницы
+item.ImmersiveEngineering.material.hempFiber.name=Волокно промышленной конопли
+item.ImmersiveEngineering.material.fabric.name=Прочная ткань
+item.ImmersiveEngineering.material.windmillBladeAdvanced.name=Улучшенная лопасть ветряной мельницы
+item.ImmersiveEngineering.material.coalCoke.name=Коксовый уголь
+item.ImmersiveEngineering.material.gunpartBarrel.name=Дуло револьвера
+item.ImmersiveEngineering.material.gunpartDrum.name=Барабан револьвера
+item.ImmersiveEngineering.material.gunpartGrip.name=Деревянная рукоятка
+item.ImmersiveEngineering.material.gunpartHammer.name=Курок револьвера
+item.ImmersiveEngineering.material.componentIron.name=Железный механический компонент
+item.ImmersiveEngineering.material.componentSteel.name=Стальной механический компонент
+item.ImmersiveEngineering.material.slag.name=Шлак
+item.ImmersiveEngineering.material.stickIron.name=Железный прут
+item.ImmersiveEngineering.material.stickSteel.name=Стальной прут
+item.ImmersiveEngineering.material.stickAluminum.name=Алюминиевый прут
+item.ImmersiveEngineering.seed.hemp.name=Семена конопли
+
+item.ImmersiveEngineering.fluidContainers.bottleCreosote.name=Бутылка креозота
+item.ImmersiveEngineering.fluidContainers.bucketCreosote.name=Ведро креозота
+item.ImmersiveEngineering.fluidContainers.bottlePlantoil.name=Бутылка растительного масла
+item.ImmersiveEngineering.fluidContainers.bucketPlantoil.name=Ведро растительного масла
+item.ImmersiveEngineering.fluidContainers.bottleEthanol.name=Бутылка этанола 
+item.ImmersiveEngineering.fluidContainers.bucketEthanol.name=Ведро этанола
+item.ImmersiveEngineering.fluidContainers.bottleBiodiesel.name=Бутылка биодизеля
+item.ImmersiveEngineering.fluidContainers.bucketBiodiesel.name=Ведро биодизеля
+
+item.ImmersiveEngineering.coil.copper.name=Катушка низковольтного провода
+item.ImmersiveEngineering.coil.electrum.name=Катушка средневольтного провода
+item.ImmersiveEngineering.coil.HV.name=Катушка высоковольтного провода
+item.ImmersiveEngineering.coil.rope.name=Катушка пенькового каната
+item.ImmersiveEngineering.coil.structural.name=Катушка стального троса
+item.ImmersiveEngineering.tool.hammer.name=Молот инженера
+item.ImmersiveEngineering.tool.wirecutter.name=Кусачки инженера
+item.ImmersiveEngineering.tool.voltmeter.name=Вольтметр инженера
+item.ImmersiveEngineering.tool.manual.name=Руководство инженера
+
+item.ImmersiveEngineering.revolver.normal.name=Револьвер
+item.ImmersiveEngineering.revolver.speedloader.name=Ускоритель заряжания револьвера
+item.ImmersiveEngineering.revolver.dev.name=♛Royal Vanquisher♚
+item.ImmersiveEngineering.revolver.infinity.name=Catalyst
+item.ImmersiveEngineering.revolver.sns.name=Steamroller
+item.ImmersiveEngineering.revolver.nerf.name=Nerf'd Revolver
+item.ImmersiveEngineering.revolver.oblivion.name=Oblivion
+item.ImmersiveEngineering.revolver.oathkeeper.name=Oathkeeper
+item.ImmersiveEngineering.revolver.bee.name=Beevolver
+item.ImmersiveEngineering.revolver.fenrir.name=Fenrir
+item.ImmersiveEngineering.revolver.earthshaker.name=§bEarthshaker§r
+item.ImmersiveEngineering.revolver.warlord.name=The Repulsor
+item.ImmersiveEngineering.revolver.superchief.name=The Super Chief
+item.ImmersiveEngineering.revolver.noName.name=No Name
+item.ImmersiveEngineering.revolver.patreonBlu.name=§6Last Word§r
+item.ImmersiveEngineering.revolver.patreonHazard.name=§4Twisted Phantom§r
+
+item.ImmersiveEngineering.bullet.emptyCasing.name=Пустой патрон
+item.ImmersiveEngineering.bullet.emptyShell.name=Пустая гильза
+item.ImmersiveEngineering.bullet.casull.name=.454 Casull
+item.ImmersiveEngineering.bullet.armorPiercing.name=Бронебойный патрон
+item.ImmersiveEngineering.bullet.buckshot.name=Патрон с картечью
+item.ImmersiveEngineering.bullet.HE.name=Фугасный патрон
+item.ImmersiveEngineering.bullet.dragonsbreath.name=Патрон "Дыхание дракона"
+item.ImmersiveEngineering.bullet.homing.name=Самонаводящийся патрон
+item.ImmersiveEngineering.bullet.wolfpack.name=Патрон "Стая волков"
+item.ImmersiveEngineering.bullet.silver.name=Серебряный патрон
+item.ImmersiveEngineering.bullet.potion.name=Патрон с эффектом зелья
+item.ImmersiveEngineering.bullet.potion.splash.name=Патрон с эффектом взрывного зелья
+item.ImmersiveEngineering.bullet.potion.linger.name=Патрон с эффектом зелья
+
+item.ImmersiveEngineering.drill.diesel.name=Шахтёрский бур
+item.ImmersiveEngineering.drillhead.iron.name=Железный шнек бура
+item.ImmersiveEngineering.drillhead.steel.name=Стальной шнек бура
+
+item.ImmersiveEngineering.skyhook.name=Небесный крюк инженера
+
+item.ImmersiveEngineering.toolupgrade.drillWaterproof.name=Баллон сжатого воздуха
+item.ImmersiveEngineering.toolupgrade.drillSpeed.name=Продвинутая смазочная система
+item.ImmersiveEngineering.toolupgrade.drillDamage.name=Дополнительные буровые шнеки
+item.ImmersiveEngineering.toolupgrade.drillCapacity.name=Большой топливный бак
+item.ImmersiveEngineering.toolupgrade.revolverBayonet.name=Штык
+item.ImmersiveEngineering.toolupgrade.revolverMagazine.name=Увеличенный магазин
+item.ImmersiveEngineering.toolupgrade.revolverElectro.name=Усилитель электроламп
+item.ImmersiveEngineering.toolupgrade.chemthrowerFocus.name=Сфокусированная насадка
+item.ImmersiveEngineering.toolupgrade.railgunScope.name=Снайперский прицел
+item.ImmersiveEngineering.toolupgrade.railgunCapacitors.name=Дополнительные конденсаторы
+
+item.ImmersiveEngineering.blueprint.name=Чертёж инженера
+
+item.ImmersiveEngineering.graphiteElectrode.name=Графитовый электрод
+
+item.ImmersiveEngineering.shader.name=Шейдер
+item.ImmersiveEngineering.shaderBag.name=Мешок с шейдером
+
+item.ImmersiveEngineering.jerrycan.name=Канистра
+
+item.ImmersiveEngineering.chemthrower.name=Химический распылитель
+
+item.ImmersiveEngineering.railgun.name=Рельсотрон
+
+item.ImmersiveEngineering.mold.plate.name=Металлическая форма для пресса: Пластина
+item.ImmersiveEngineering.mold.gear.name=Металлическая форма для пресса: Шестерня
+item.ImmersiveEngineering.mold.rod.name=Металлическая форма для пресса: Стержень
+
+item.ImmersiveEngineering.toolbox.name=Набор инструментов инженера
+
+#CREATIVE
+itemGroup.ImmersiveEngineering=Immersive Engineering
+
+#DESCRIPTIONS
+description.villager.profession.immersiveengineering.villager_engineer=Инженер
+
+desc.ImmersiveEngineering.name.blastFurnace=Упрощённая доменная печь
+
+desc.ImmersiveEngineering.info.attachedTo=Начальная точка соединения: %1$s, %2$s, %3$s
+desc.ImmersiveEngineering.info.attachedToDim=Начальная точка соединения: %1$s, %2$s, %3$s в измерении: %4$s
+desc.ImmersiveEngineering.info.energyStored=RF: %1$s
+desc.ImmersiveEngineering.info.energyStoredEU=EU: %1$s
+desc.ImmersiveEngineering.info.blastFuelTime=Топливо доменной печи: %1$s тактов
+
+desc.ImmersiveEngineering.info.blockSide.facing=Лицевая сторона
+desc.ImmersiveEngineering.info.blockSide.opposite=Задняя сторона
+desc.ImmersiveEngineering.info.blockSide.UP=Верхняя сторона
+desc.ImmersiveEngineering.info.blockSide.DOWN=Нижняя сторона
+desc.ImmersiveEngineering.info.blockSide.NORTH=Северная сторона
+desc.ImmersiveEngineering.info.blockSide.SOUTH=Южная сторона
+desc.ImmersiveEngineering.info.blockSide.EAST=Восточная сторона
+desc.ImmersiveEngineering.info.blockSide.WEST=Западная сторона
+desc.ImmersiveEngineering.info.blockSide.connectEnergy.-1=Нет соединения
+desc.ImmersiveEngineering.info.blockSide.connectEnergy.0=Вход энергии
+desc.ImmersiveEngineering.info.blockSide.connectEnergy.1=Выход энергии
+desc.ImmersiveEngineering.info.blockSide.connectFluid.-1=Нет соединения
+desc.ImmersiveEngineering.info.blockSide.connectFluid.0=Вход жидкости
+desc.ImmersiveEngineering.info.blockSide.connectFluid.1=Выход жидкости
+
+desc.ImmersiveEngineering.info.filter.oreDict=Фильтр: Словарь руд (OreDictionary)<br>Фильтр предметов на основе<br>имён по словарю руд.
+desc.ImmersiveEngineering.info.filter.nbt=Фильтр: NBT Data<br>Фильтр предметов на основе<br>различия NBT данных.
+desc.ImmersiveEngineering.info.filter.fuzzy=Фильтр: Нечёткий (Fuzzy)<br>Фильтрует предметы<br>игнорируя их степень повреждения.
+
+desc.ImmersiveEngineering.info.oreDict.off=Словарь руд: Отключен
+desc.ImmersiveEngineering.info.oreDict.on=Словарь руд: Включен
+
+desc.ImmersiveEngineering.info.mininglvl.-1=Нет
+desc.ImmersiveEngineering.info.mininglvl.0=§7Камень
+desc.ImmersiveEngineering.info.mininglvl.1=§4Железо
+desc.ImmersiveEngineering.info.mininglvl.2=§cРедстоун
+desc.ImmersiveEngineering.info.mininglvl.3=§dОбсидиан
+desc.ImmersiveEngineering.info.mininglvl.4=§9Кобальт
+desc.ImmersiveEngineering.info.mininglvl.5=§5Маньюллин
+desc.ImmersiveEngineering.info.mininglvl.6=§5Маньюллин§d+
+
+desc.ImmersiveEngineering.info.durability=Прочность: %1$s
+
+desc.ImmersiveEngineering.info.holdShift=§6Зажмите Shift§r
+
+desc.ImmersiveEngineering.info.mineral.Iron=Железо
+desc.ImmersiveEngineering.info.mineral.Magnetite=Магнетит
+desc.ImmersiveEngineering.info.mineral.Pyrite=Пирит
+desc.ImmersiveEngineering.info.mineral.Bauxite=Боксит
+desc.ImmersiveEngineering.info.mineral.Copper=Медь
+desc.ImmersiveEngineering.info.mineral.Cassiterite=Касситерит
+desc.ImmersiveEngineering.info.mineral.Gold=Золото
+desc.ImmersiveEngineering.info.mineral.Nickel=Никель
+desc.ImmersiveEngineering.info.mineral.Platinum=Платина
+desc.ImmersiveEngineering.info.mineral.Uranium=Уран
+desc.ImmersiveEngineering.info.mineral.Quartzite=Кварцит
+desc.ImmersiveEngineering.info.mineral.Galena=Галенит
+desc.ImmersiveEngineering.info.mineral.Lead=Свинец
+desc.ImmersiveEngineering.info.mineral.Silver=Серебро
+desc.ImmersiveEngineering.info.mineral.Lapis=Лазурит
+desc.ImmersiveEngineering.info.mineral.Coal=Уголь
+desc.ImmersiveEngineering.info.mineral.Wolframite=Вольфрамит
+
+desc.ImmersiveEngineering.info.reqMaterial=Требуются материалы:
+desc.ImmersiveEngineering.info.chance=Шанс:
+
+desc.ImmersiveEngineering.info.blueprint.creates0=Созданные предметы: §6Зажмите Shift§r
+desc.ImmersiveEngineering.info.blueprint.creates1=Созданные предметы:
+desc.ImmersiveEngineering.info.blueprint.bullet=Обычные патроны
+desc.ImmersiveEngineering.info.blueprint.specialBullet=Особые патроны
+desc.ImmersiveEngineering.info.blueprint.electrode=Электроды дуговой печи
+
+desc.ImmersiveEngineering.info.electrodeIntegrity=Целостность
+
+desc.ImmersiveEngineering.info.shader.applyTo=Может применяться на:
+desc.ImmersiveEngineering.info.shader.revolver=Револьвер
+desc.ImmersiveEngineering.info.shader.chemthrower=Химический распылитель
+desc.ImmersiveEngineering.info.shader.drill=Шахтёрский бур
+desc.ImmersiveEngineering.info.shader.railgun=Рельсотрон
+desc.ImmersiveEngineering.info.shader.minecart=Вагонетка
+desc.ImmersiveEngineering.info.shader.balloon=Воздушный шар
+
+desc.ImmersiveEngineering.info.toolbox.food=Еда
+desc.ImmersiveEngineering.info.toolbox.tool=Инструменты
+desc.ImmersiveEngineering.info.toolbox.wire=Электропроводка
+desc.ImmersiveEngineering.info.toolbox.any=Разное
+
+desc.ImmersiveEngineering.flavour.treatedWood.0=Горизонтальные доски
+desc.ImmersiveEngineering.flavour.treatedWood.1=Рельсообразный орнамент доски
+desc.ImmersiveEngineering.flavour.treatedWood.2=Решётчатый орнамент доски
+desc.ImmersiveEngineering.flavour.woodenStairs=Горизонтальные доски
+desc.ImmersiveEngineering.flavour.woodenStairs1=Рельсообразный орнамент доски
+desc.ImmersiveEngineering.flavour.woodenStairs2=Решётчатый орнамент доски
+desc.ImmersiveEngineering.flavour.crate=Не потеряет предметы, если сломать!
+desc.ImmersiveEngineering.flavour.barrel=Не потеряет жидкость, если сломать!
+desc.ImmersiveEngineering.flavour.barrelTemp=Не может содержать горячие жидкости и газы
+desc.ImmersiveEngineering.flavour.coil.construction0=Только для декорации. Не передаёт энергию.
+desc.ImmersiveEngineering.flavour.coil.construction1=Макс. длина всех кабелей - 32 блока
+desc.ImmersiveEngineering.flavour.revolver=Валяй, повесели меня!
+desc.ImmersiveEngineering.flavour.revolver.dev=Цареубийца!
+desc.ImmersiveEngineering.flavour.revolver.infinity=Все, что вам нужно, это небольшая щепотка бесконечности
+desc.ImmersiveEngineering.flavour.revolver.sns=Кровь, пот, пар и сталь
+desc.ImmersiveEngineering.flavour.revolver.nerf=Безопасно для детей
+desc.ImmersiveEngineering.flavour.revolver.oblivion=Мимолетные воспоминания
+desc.ImmersiveEngineering.flavour.revolver.oathkeeper=Путеводный камень
+desc.ImmersiveEngineering.flavour.revolver.bee=Боль
+desc.ImmersiveEngineering.flavour.revolver.fenrir=Нет ничего, чем бы я не дорожил!
+desc.ImmersiveEngineering.flavour.revolver.earthshaker=Затянувшееся желание
+desc.ImmersiveEngineering.flavour.revolver.warlord=Не забирайте мои игрушки!
+desc.ImmersiveEngineering.flavour.revolver.superchief=Чу-чу!
+desc.ImmersiveEngineering.flavour.revolver.rommie=Система наведения Искусственного Интеллекта 'Rommie' включена!
+desc.ImmersiveEngineering.flavour.revolver.noName=Вглядываясь во тьму
+desc.ImmersiveEngineering.flavour.revolver.patreonBlu=Выбор охотника
+desc.ImmersiveEngineering.flavour.revolver.patreonHazard=Эксклюзивный DLC контент
+
+desc.ImmersiveEngineering.flavour.drill.noHead=Шнек бура не установлен
+desc.ImmersiveEngineering.flavour.drill.headDamage=Состояние шнека бура:
+desc.ImmersiveEngineering.flavour.drill.fuel=Топливо:
+desc.ImmersiveEngineering.flavour.drill.empty=Пусто
+
+desc.ImmersiveEngineering.flavour.drillhead.size=Зона добычи: %1$sx%1$sx%2$s 
+desc.ImmersiveEngineering.flavour.drillhead.level=Уровень добычи: %1$s
+desc.ImmersiveEngineering.flavour.drillhead.speed=Скорость добычи: %1$s
+desc.ImmersiveEngineering.flavour.drillhead.damage=Урон: %1$s
+
+desc.ImmersiveEngineering.flavour.skyhook=Цепляйтесь им за провод возле коннектора
+
+desc.ImmersiveEngineering.flavour.toolupgrade.drillWaterproof=Позволяет буру работать под водой
+desc.ImmersiveEngineering.flavour.toolupgrade.drillSpeed=Увеличивает скорость добычи бура
+desc.ImmersiveEngineering.flavour.toolupgrade.drillDamage=Увеличивает урон бура. Суммируется до 3-ёх раз
+desc.ImmersiveEngineering.flavour.toolupgrade.drillCapacity=Увеличивает размер топливного бака бура и химического распылителя
+desc.ImmersiveEngineering.flavour.toolupgrade.revolverBayonet=Добавляет револьверу атаку ближнего боя
+desc.ImmersiveEngineering.flavour.toolupgrade.revolverMagazine=Увеличивает размер магазина револьвера
+desc.ImmersiveEngineering.flavour.toolupgrade.revolverElectro=Патроны револьвера наносят урон электричеством
+desc.ImmersiveEngineering.flavour.toolupgrade.chemthrowerFocus=Уменьшает разброс и увеличивает дальность химического распылителя
+desc.ImmersiveEngineering.flavour.toolupgrade.railgunScope=Позволяет рельсотрону точно прицеливаться
+desc.ImmersiveEngineering.flavour.toolupgrade.railgunCapacitors=Уменьшает время зарядки и увеличивает хранилище энергии рельсотрона
+
+gui.ImmersiveEngineering.empty=Резервуар пуст
+
+#CHAT
+chat.ImmersiveEngineering.warning.wrongCable=Вы не можете прикрепить здесь кабель
+chat.ImmersiveEngineering.warning.wrongDimension=Вы в неверном измерении
+chat.ImmersiveEngineering.warning.sameConnection=Вы не можете прикрепить кабель к этой же точке
+chat.ImmersiveEngineering.warning.tooFar=Вы слишком далеко от предыдущего соединения
+chat.ImmersiveEngineering.warning.cantSee=Что-то перекрывает соединение
+chat.ImmersiveEngineering.warning.connectionExists=Соединение уже существует
+chat.ImmersiveEngineering.warning.invalidPoint=Первая точка соединения более не доступна
+chat.ImmersiveEngineering.info.averageLoss=Средние потери между точками: %1$s%%
+chat.ImmersiveEngineering.info.energyStorage=Накоплено энергии: %1$s/%2$s RF
+chat.ImmersiveEngineering.info.tooHot=Эта жидкость слишком горячая для контейнера!
+chat.ImmersiveEngineering.info.noGasAllowed=Этот контейнер не может хранить газы!
+chat.ImmersiveEngineering.info.invertedOn=Сигнал красного камня установлен на: Инвертирован
+chat.ImmersiveEngineering.info.invertedOff=Сигнал красного камня установлен на: Не инвертирован
+
+chat.ImmersiveEngineering.info.forChunk=§8Чанк просканирован от %1$s до %2$s (F9 - границы чанков при наличии NEI)
+chat.ImmersiveEngineering.info.coreDrill.progress=Ведётся оценка породы: %1$s
+chat.ImmersiveEngineering.info.coreDrill.result.mineral=§7Проведена оценка породы, найдено: %1$s§7
+chat.ImmersiveEngineering.info.coreDrill.result.depl=§7Богатство жилы: %1$s§7
+chat.ImmersiveEngineering.info.coreDrill.result.none=Горная порода оценена, залежи полезных ископаемых не найдены
+chat.ImmersiveEngineering.info.coreDrill.infinite=Бесконечность
+
+chat.ImmersiveEngineering.info.pump.placeCobble.true=Этот насос теперь будет заменять жидкости булыжником.
+chat.ImmersiveEngineering.info.pump.placeCobble.false=Этот насос больше не будет заменять жидкости булыжником. §6ПРЕДУПРЕЖДЕНИЕ:§f Это может вызвать лаги и не рекомендуется в случаях, когда дело касается больших объёмов жидкости!
+
+chat.ImmersiveEngineering.info.energyTransfered=Средняя энергия, передаваемая в течение последних %1$s тактов: %2$s RF/t
+
+chat.ImmersiveEngineering.command.available=§6Доступные команды:§r %1$s
+chat.ImmersiveEngineering.command.help.help=§6Использование: /ie help <команда> [подкоманда]§r<br> Для получения дополнительной информации об указанной команде или, опционально, её подкоманде
+chat.ImmersiveEngineering.command.mineral.help=§6Использование: /ie mineral <list|get|set|setDepletion>§r
+chat.ImmersiveEngineering.command.mineral.list.help=§6Использование: /ie mineral list§r<br> Список всех зарегистрированных полезных ископаемых
+chat.ImmersiveEngineering.command.mineral.get.help=§6Использование: /ie mineral get§r<br> Показывает полезные ископаемые в текущем чанке
+chat.ImmersiveEngineering.command.mineral.set.help=§6Использование: /ie mineral set [mineral]§r<br> Перезаписывает чанк выбранным полезным ископаемым. Не указывайте [полезное ископаемое] чтобы отменить перезапись чанка.
+chat.ImmersiveEngineering.command.mineral.setDepletion.help=§6Использование: /ie mineral setDepletion <число>§r<br> Устанавливает в процентах степень выработанности жилы. Значение 0 - нетронутая целая жила. Укажите значение -1 чтобы сделать её бесконечной.
+chat.ImmersiveEngineering.command.mineral.get=В чанке содержится: %1$s, Заменено жилой: %2$s, Выработано процентов: %3$s
+chat.ImmersiveEngineering.command.mineral.set.invalidMineral=§cНеверное значение. '%1$s' Это значение неверно. Используйте команду '/ie mineral list' для списка доступных полезных ископаемых.§r
+chat.ImmersiveEngineering.command.mineral.set.sucess=Полезное ископаемое перезаписано на '%1$s'
+chat.ImmersiveEngineering.command.mineral.set.clear=Перезапись полезного ископаемого (%1$s) отменена.
+chat.ImmersiveEngineering.command.mineral.setDepletion.NFE=Ошибка. '%1$s' Это число неверно
+chat.ImmersiveEngineering.command.mineral.setDepletion.sucess=Выработанность жилы полезных ископаемых установлена на процент: '%1$s'
+chat.ImmersiveEngineering.command.shaders.help=§6Использование: /ie shaders <clear>§r
+chat.ImmersiveEngineering.command.shaders.clear.help=§6Использование: /ie shaders clear [игрок]§r<br> Очистить полученные шейдеры для данного игрока. Очистит у себя, если игрок не указан.
+chat.ImmersiveEngineering.command.shaders.clear.sucess=Полученные шейдеры игрока '%1$s' очищены
+
+#RECIPES
+recipe.ImmersiveEngineering.hammerCrushing=Дробление
+
+#DEATH
+death.attack.ieRevolver_casull=%1$s был застрелен обычным патроном игрока %2$s
+death.attack.ieRevolver_armorPiercing=%1$s был застрелен бронебойным патроном игрока %2$s
+death.attack.ieRevolver_buckshot=%1$s был застрелен картечью игрока %2$s
+death.attack.ieRevolver_dragonsbreath=%1$s был зажарен "Дыханием дракона" игрока %2$s
+death.attack.ieRevolver_homing=%1$s был застрелен самонаводящейся пулей игрока %2$s
+death.attack.ieRevolver_wolfpack=%1$s был растерзан "Стаей волков" из патрона игрока %2$s
+death.attack.ieRevolver_silver=%1$s был очищен серебряной пулей игрока %2$s
+death.attack.ieRevolver_potion=%1$s был застрелен пулей с эффектом зелья игрока %2$s
+death.attack.ieCrushed=%1$s был раздроблен
+death.attack.ieAcid=%1$s был растворён в кислоте
+death.attack.ieRailgun=%1$s был пронзён рельсотроном игрока %2$s
+
+#ACHIEVEMENTS
+achievement.immersiveengineering.openManual=RTFM
+achievement.immersiveengineering.openManual.desc=Откройте руководство инженера
+achievement.immersiveengineering.craftHammer=КРУШИТЬ!
+achievement.immersiveengineering.craftHammer.desc=Сделайте молот инженера
+achievement.immersiveengineering.connectWire=Птицы на проводе
+achievement.immersiveengineering.connectWire.desc=Присоедините провод
+achievement.immersiveengineering.blastfurnace=Реально горячая тема
+achievement.immersiveengineering.blastfurnace.desc=Создайте Упрощённую доменную печь
+achievement.immersiveengineering.makeSteel=Апгрейд
+achievement.immersiveengineering.makeSteel.desc=Создайте стальной слиток
+
+achievement.immersiveengineering.placeConveyor=Дорога в никуда
+achievement.immersiveengineering.placeConveyor.desc=Установите конвейерную ленту
+achievement.immersiveengineering.placeWindmill=Мельница в поле
+achievement.immersiveengineering.placeWindmill.desc=Установите ветряную мельницу
+achievement.immersiveengineering.craftHeater=Распространение тепла
+achievement.immersiveengineering.craftHeater.desc=Создайте внешний нагреватель
+achievement.immersiveengineering.craftPump=Под давлением
+achievement.immersiveengineering.craftPump.desc=Создайте жидкостный насос
+achievement.immersiveengineering.placeFloodlight=Aзис! Свет!
+achievement.immersiveengineering.placeFloodlight.desc=Установите прожектор
+achievement.immersiveengineering.craftWorkbench=Время мастерить
+achievement.immersiveengineering.craftWorkbench.desc=Создайте верстак инженера
+achievement.immersiveengineering.craftRevolver=Повесели меня
+achievement.immersiveengineering.craftRevolver.desc=Создайте револьвер
+achievement.immersiveengineering.upgradeRevolver=Shalashaska
+achievement.immersiveengineering.upgradeRevolver.desc=Установите максимум улучшений в револьвер
+achievement.immersiveengineering.craftWolfPack=Красота разрушения
+achievement.immersiveengineering.craftWolfPack.desc=Создайте патрон "Стая волков"
+achievement.immersiveengineering.craftDrill=Электро-кирка
+achievement.immersiveengineering.craftDrill.desc=Создайте шахтёрский бур
+achievement.immersiveengineering.upgradeDrill=Большой папочка
+achievement.immersiveengineering.upgradeDrill.desc=Установите максимум улучшений в шахтёрский бур
+achievement.immersiveengineering.craftSkyhook=Букер, лови!
+achievement.immersiveengineering.craftSkyhook.desc=Создайте небесный крюк инженера
+achievement.immersiveengineering.skyhookPro=Мастер горизонтов
+achievement.immersiveengineering.skyhookPro.desc=Прокатитесь более 1 км на крюке инженера
+achievement.immersiveengineering.craftChemthrower=Опрыскай и помолись
+achievement.immersiveengineering.craftChemthrower.desc=Создайте химический распылитель
+achievement.immersiveengineering.craftRailgun=Наследие фортуны
+achievement.immersiveengineering.craftRailgun.desc=Создайте рельсотрон
+achievement.immersiveengineering.mbImprovedBlastFurnace=Изысканное искусство
+achievement.immersiveengineering.mbImprovedBlastFurnace.desc=Постройте улучшенную доменную печь
+achievement.immersiveengineering.mbSilo=Схрон из листового металла
+achievement.immersiveengineering.mbSilo.desc=Постройте мультиблочное хранилище
+achievement.immersiveengineering.mbCrusher=Опасная машинерия
+achievement.immersiveengineering.mbCrusher.desc=Постройте мультиблочный Дробитель
+achievement.immersiveengineering.mbDieselGen=Вредно для окружающей среды
+achievement.immersiveengineering.mbDieselGen.desc=Постройте мультиблочный дизельный генератор
+achievement.immersiveengineering.mbExcavator=Diggy Diggy Hole
+achievement.immersiveengineering.mbExcavator.desc=Постройте мультиблочный Роторный экскаватор
+achievement.immersiveengineering.mbArcFurnace=Самая горячая тема
+achievement.immersiveengineering.mbArcFurnace.desc=Постройте мультиблочную дуговую печь
+
+achievement.immersiveengineering.secret_birthdayParty=День Рождения Гранта
+achievement.immersiveengineering.secret_birthdayParty.desc=Зажгите спичку...
+achievement.immersiveengineering.secret_luckOfTheDraw=Счастливый случай
+achievement.immersiveengineering.secret_luckOfTheDraw.desc=Всё или ничего
+
+
+
+stat.skyhookOneCm=Дистанция на небесном крюке инженера
+
+immersiveengineering.potion.flammable=Горючий
+immersiveengineering.potion.slippery=Скользкий
+immersiveengineering.potion.conductive=Проводящий
+immersiveengineering.potion.sticky=Липкий
+
+#MANUAL
+#ie.manual.entry..name=
+#ie.manual.entry..subtext=
+#ie.manual.entry.=
+
+ie.manual.category.update.name=НОВОСТИ ОБНОВЛЕНИЙ!
+ie.manual.entry.updateNews_0.name=Что нового в v0.6.0
+ie.manual.entry.updateNews_0.subtext=Нововведения и изменения
+ie.manual.entry.updateNews_00=Дорогой инженер!<br><br>С тех пор как Вы в последний раз работали в Immersive Engineering, много чего изменилось! Среди новинок: Дома жителей деревень, <link;lighting;§o§nновое_освещение§r>, <link;barrel;§o§nдеревянные_бочки§r>, <link;tanksilo;§o§nводные_резервуары§r>, <link;tanksilo;§o§nсилосные_хранилища§r;1>, <link;fluidPipes;§o§nтрубы_для_жидкостей§r>, достижения, <link;shader;§o§nшейдеры§r>, <link;assembler;§o§nсборочный_автомат§r> и <link;bottlingMachine;§o§nразливочная_машина§r>!
+ie.manual.entry.updateNews_01=Но самое главное, что способ передачи энергии сильно изменился. Во избежание ошибок, пожалуйста, обязательно прочитайте <link;wiring;§o§nраздел_о_проводке§r>, особенно 5-ую страницу, описывающую новые различия между скоростями передачи кабелей и скоростью входа/выхода коннекторов.
+
+ie.manual.entry.updateNews_1.name=Что нового в v0.6.1
+ie.manual.entry.updateNews_1.subtext=Нововведения и изменения
+ie.manual.entry.updateNews_10=Дорогой инженер!<br><br>Последнее обновление принесло следующие изменения в Immersive Engineering:<br><br><link;metalbarrel;§o§nметаллические_бочки§r> предлагают портативное решение для хранения жидкостей. Дуговая печь была улучшена для создания определенных сплавов и теперь она может перерабатывать старые инструменты и доспехи. На строительные леса, которые использовались для покрытия <link;fluidPipes;§o§nжидкостных_труб§r> теперь можно забраться.
+
+ie.manual.entry.updateNews_2.name=Что нового в v0.6.2
+ie.manual.entry.updateNews_2.subtext=Нововведения и изменения
+ie.manual.entry.updateNews_20=Дорогой инженер!<br><br>Последнее обновление принесло следующие изменения в Immersive Engineering:<br><br>Был изобретен новый вариант строительных лесов, в котором небезопасные стальные стойки на вершине заменены деревянными. Алюминий оказался весьма полезным для декоративных целей, поэтому заборы и строительные леса теперь можно приобрести в Вашем местном магазине для инженеров.
+ie.manual.entry.updateNews_21=Был изобретен новый вид <link;breaker;§o§nпрерывателя_цепи§r;2> управляемый с помощью сигнала красного камня и подключения в том числе к высоковольтным линиям. Теперь высоковольтные линии запрещено подключать к обычным рубильникам из-за опасного для жизни напряжения. Мы не хотим проблем с профсоюзом.
+
+ie.manual.entry.updateNews_3.name=Что нового в v0.6.3
+ie.manual.entry.updateNews_3.subtext=Нововведения и изменения
+ie.manual.entry.updateNews_30=Дорогой инженер!<br><br>Последнее обновление принесло следующие изменения в Immersive Engineering:<br><br>Получив тяжёлое сотрясение мозга, главный инженер Адамс придумал и зарисовал планы для <link;chemthrower;§o§nХимического_распылителя§r>. Устройство, позволяющее распылять любую жидкость в любом месте. Он также оснащён встроенной накаляющей лампой для поджигания распыляемой жидкости. Мы думаем, что Адамс, возможно, лишился рассудка.
+ie.manual.entry.updateNews_31=Ещё одно новое изобретение исследовательского отдела - <link;chargingStation;§o§nЗарядная_станция§r>, которая позволяет заряжать предметы.<br>Помощник инженера "Кобра" представил своё новейшее изобретение - <link;conveyor;§o§nСбрасывающий_конвейер§r;2>, который сбрасывает проходящие по нему предметы в инвентарь, расположенный ниже.<br>Ко всему прочему, был разработан <link;sorter;§o§nСортировщик§r> для возможности фильтрации предметов по "Словарю руд", "NBT" и "Fuzzy" (игнорирование прочности предмета)!
+ie.manual.entry.updateNews_32=Среди других заметных добавлений, связанных с перемещением и декором, можно отметить следующие:<br>- <link;shader;§o§nШейдеры§r> можно применить на Вагонетки.<br>- <link;skyhook;§o§nНебесный_крюк_инженера§r> - инструмент, который позволит Вам пронестись по линиям электропередач быстрее Вагонеток.<br>- <link;balloon;§o§nВоздушные_шары§r>, как удобный способ подвесить к ним крепления и трос, сформировав "воздушные пути" для быстрого перемещения на вышеупомянутом крюке. Shift+ПКМ устанавливает высоту шара.
+ie.manual.entry.updateNews_33=- <link;concrete;§o§nБетон§r>, который обеспечит жёсткую посадку при падении с "воздушного пути"...<br> И последняя новость. Финансовый отдел придрался к нам за то, что мы не следим за расходом электроэнергии. После жаркого спора они представили нам чертежи <link;eMeter;§o§nИзмерителя_напряжения§r> - устройства, которое может измерять проходящую через него энергию. Не нужно говорить, насколько они стали недовольны, когда узнали, сколько энергии потребляет дуговая печь...
+
+ie.manual.entry.updateNews_4.name=Что нового в v0.6.4
+ie.manual.entry.updateNews_4.subtext=Нововведения и изменения
+ie.manual.entry.updateNews_40=Дорогой инженер!<br><br>Это обновление принесло лишь незначительные изменения.<br>Передача энергии снова исправлена, а сломавший это дело инженер был в наказание окунут в холодную воду.<br> <link;furnaceHeater;§o§nВнешний_нагреватель§r> получил некоторые улучшения, которые теперь позволяют ему нагревать "Алхимические печи" из §lThaumcraft§r или "Испарители" из §lCutting Edge§r.<br><br>На этом пока всё. Будем надеяться, что обновление будет достаточно стабильным.
+
+ie.manual.entry.updateNews_5.name=Что нового в v0.7.0
+ie.manual.entry.updateNews_5.subtext=Нововведения и изменения
+ie.manual.entry.updateNews_50=Дорогой инженер!<br><br>В новой версии IE, в которую Вы играете, проведены некоторые существенные изменения по сравнению с предыдущими версиями!<br><br>Был добавлен новый компонент в виде <link;plates;§o§nМеталлических_пластин§r>. Эти пластины не полностью заменяют слитки, но необходимы для нескольких рецептов. Пластины можно изготовить с помощью Молота Инженера или в <link;metalPress;§o§nПрессе§r>.
+ie.manual.entry.updateNews_51=Среди вариантов использования этих новых пластин - создание Продвинутой доменной печи из <link;improvedBlastfurnace;§o§nУкреплённого_кирпича§r>. Эта новая доменная печь намного быстрее создает сталь и может быть автоматизирована. А "Старая" получила название <link;blastfurnace;§o§nУпрощённая§r> (Crude в ориг.) и не может быть автоматизирована. В обеих печах теперь образуется шлак.<br> <link;arcfurnace;§o§nДуговая_печь§r> также подверглась ребалансировке. Стоимость стали на её создание снижена, а вместо неё используются укреплённые доменные кирпичи, что является явным улучшением.
+
+ie.manual.entry.updateNews_6.name=Что нового в v0.7.1
+ie.manual.entry.updateNews_6.subtext=Нововведения и изменения
+ie.manual.entry.updateNews_60=Дорогой инженер!<br><br>Последнее обновление принесло некоторые новые возможности и изменения в IE. Самое большое из них - добавление поддержки <link;computer.general;§o§nКомпьютеров§r> (раздел компьютеров доступен только, если Вы используете мод, добавляющий их).<br> Другие более мелкие изменения включают поддержку мода §lInventory Tweaks§r в §lДеревянном ящике§r и различные исправления ошибок.
+
+ie.manual.category.general.name=Общие сведения и ресурсы
+ie.manual.category.construction.name=Сооружения
+ie.manual.category.energy.name=Энергия, провода, генераторы
+ie.manual.category.machines.name=Инструменты и механизмы
+ie.manual.category.heavymachines.name=Тяжёлая машинерия
+
+ie.manual.entry.introduction.name=Вводная часть
+ie.manual.entry.introduction.subtext=Введение в инженерное дело
+ie.manual.entry.introduction0=§nЕсли книга отображается мелко, то измените параметр в конфиге мода на §r§lB:AutoscaleManual=false§r.<br>Здравствуйте, товарищи инженеры, и добро пожаловать в Immersive Engineering (сокр. IE)! Эта книга будет служить Вам руководством по настройке всех новых машин и функций, которые предлагает этот мод.<br>Начнём с основ: IE построен на концепции ретрофутуристической генерации и передачи энергии. Энергия, используемая в этом моде - Redstone Flux (RF) совместима со многими другими популярными модами.
+ie.manual.entry.introduction1=Энергия передаётся между §lконнекторами§r по §lпроводам§r. Провода могут подключаться на максимальное расстояние в 32 блока от одного коннектора к другому. Для гибкости подключения и разветвления проводов нужно использовать больше коннекторов в качестве §lреле§r.<br>У Вас есть выбор между тремя типами проводов, которые различаются по скорости передачи энергии: <config;iA;cableTransferRate;l3> RF/такт. Для соединения разных типов проводов используйте §lтрансформаторы§r.
+ie.manual.entry.introductionHammer=Молот инженера - самый важный инструмент. Он нужен для формирования мультиблочных конструкций, таких как коксовая и доменная печи, дробления руды в пыль, создания пластин. Настройки сооружений: деревянные столбы, конвейеры, прожекторы, коннектор декор. кабеля, конденсаторов, насосов, бочек и разъединения труб.
+
+ie.manual.entry.ores.name=Руды
+ie.manual.entry.ores.subtext=Diggy diggy hole (это отсылка)
+ie.manual.entry.oresCopper=§lМедная руда§r встречается в мире между слоями <config;iA;ore_copper;1> и <config;iA;ore_copper;2>, для её добычи потребуется каменная кирка.<br><br>Руда переплавляется в медные слитки, которые используются для изготовления медных проводов, катушек и других важных деталей архитектуры IE.
+ie.manual.entry.oresBauxite=§lБокситовая руда§r встречается в мире между слоями <config;iA;ore_bauxite;1> и <config;iA;ore_bauxite;2>, для её добычи потребуется каменная кирка.<br><br>Эта руда переплавляется в алюминиевые слитки, которые, вместе со сталью, используются для создания высоковольтных проводов.
+ie.manual.entry.oresLead=§lСвинцовая руда§r встречается в мире между слоями <config;iA;ore_lead;1> и <config;iA;ore_lead;2>, для её добычи потребуется железная кирка.<br><br>Эта руда переплавляется в свинцовые слитки, которые используются в создании конденсаторов.
+ie.manual.entry.oresSilver=§lСеребряная руда§r встречается в мире между слоями <config;iA;ore_silver;1> и <config;iA;ore_silver;2>, для её добычи потребуется железная кирка.<br><br>Пыль этой руды нужно соединить с золотой пылью для создания сплава электрума, гораздо более эффективного проводника.
+ie.manual.entry.oresNickel=§lНикелевая руда§r встречается в мире между слоями <config;iA;ore_nickel;1> и <config;iA;ore_nickel;2>, для её добычи потребуется железная кирка.<br><br>Пыль этой руды нужно соединить с медной пылью для создания сплава константана, термостойкого проводника, используемого в создании <link;thermoElectric;§o§nТермоэлектрического_генератора§r;>
+
+ie.manual.entry.oreProcessing.name=Обработка руд
+ie.manual.entry.oreProcessing.subtext=Стереть в порошок
+ie.manual.entry.oreProcessing0=Молот инженера позволяет раздробить руды в пыль, но это не принесёт удвоение ресурсов. Хотя, эту пыль и можно расплавить в слитки, лучше сделать из неё <link;alloys;§o§nсплавы§r>.
+
+ie.manual.entry.alloys.name=Сплавы
+ie.manual.entry.alloys.subtext=Миксуем
+ie.manual.entry.alloys0=Смешивание пыли некоторых металлов создает смесь, которая выплавляется в сплавы. Константан обладает термоэлектрическими свойствами и используется при создании <link;thermoElectric;§o§nТермоэлектрического_генератора§r;>, а электрум является отличным проводником электричества, используемым в <link;wiring;§o§nСредневольтных_проводах§r>.
+
+ie.manual.entry.plates.name=Металлические пластины
+ie.manual.entry.plates.subtext=Плоские, как камбала
+ie.manual.entry.plates0=Металлические пластины - это материал, необходимый для создания некоторых машин и блоков. Они изготавливаются путём ручного сплющивания слитка металла Молотом инженера или в <link;metalPress;§o§nМеталлоформовочном_прессе§r>.
+
+ie.manual.entry.hemp.name=Промышленная конопля
+ie.manual.entry.hemp.subtext=Используется и в строительстве
+ie.manual.entry.hemp0=Промышленная конопля - замечательное растение! Её семена не только используются для создания <link;biodiesel;§o§nБиодизеля§r>, но и волокна также полезны для создания прочной ткани. Получить семена можно сорвав высокую траву.
+ie.manual.entry.hemp1=Прочная ткань изготавливается из конопляного волокна. Она используется для создания <link;generator;§o§nУлучшенных_ветряных_мельниц§r;3> а также <link;balloon;§o§nВоздушных_шаров§r>. А ещё, из глины и конопли (её растёртого жмыха и цемента в реале) создаются строительные блоки - костробетон.
+
+ie.manual.entry.cokeoven.name=Коксовая печь
+ie.manual.entry.cokeoven.subtext=Горячая тема!
+ie.manual.entry.cokeoven0=Это первая важная конструкция, которая Вам нужна для развития в IE. Её функциональность проста: она нагревает уголь без доступа кислорода, создавая угольный кокс, топливо с высоким содержанием углерода. В результате этого процесса образуется §lКреозот§r, который используется для обработки <link;treatedwood;§o§nдревесины§r>, снижая её скорость разложения от влаги. Эта печь может пережечь и обычные брёвна в древесный уголь, но с меньшим выходом креозота. Характерный запах креозота Вы могли почувствовать в реале от железнодорожных шпал.
+ie.manual.entry.cokeovenBlock=Чтобы сформировать коксовую печь, расположите 27 её блоков в кубе 3x3x3 и щёлкните ПКМ по любой боковой стороне из центральных блоков с помощью молота инженера.<br>Смотрите схему на следующей странице.
+
+ie.manual.entry.treatedwood.name=Обработанная древесина
+ie.manual.entry.treatedwood.subtext=Долговечные изделия из дерева
+ie.manual.entry.treatedwood0=Обработанная древесина - это просто деревянные доски, покрытые креозотовым маслом. Однако это один из самых частых и важных материалов, которые Вы будете использовать в Immersive Engineering, поэтому Вам лучше запастись большим количеством таких материалов.
+ie.manual.entry.treatedwoodPost0=Деревянные столбы служат отличными точками крепления для §lКоннекторов§r проводов. Они в высоту 4 блока, поэтому Вам нужно ставить их под открытым небом, либо в здании с высокими потолками.<br>Щёлкнув ПКМ Молотом по бокам самого верхнего блока столба можно развернуть 2 доп. крепления.
+ie.manual.entry.treatedwoodPost1=На столбы можно разместить средневольтные <link;wiring;§o§nтрансформаторы§r;4>, что сделает Ваш завод более просторным.<br>Если поместить §lКоннекторы§r или другие блоки под креплениями столба, то они подстроятся под прилегающий блок. К одному креплению столба можно подключить сверху и снизу по коннектору, что в сумме выйдет до 5 проводов на один столб (и 1 коннектор на вершине). Имеются графические недоработки с трансфор-ми, поэтому не рекомендуется прикреплять их к доп. креплению столба, а сразу напрямую. 
+
+ie.manual.entry.concrete.name=Бетон
+ie.manual.entry.concrete.subtext=Основа сооружений
+ie.manual.entry.concrete0=Бетон - это очень твёрдый и прочный композитный материал. Он дешёв в производстве и отлично подходит для реализации избыточного шлака, образующегося от <link;arcfurnace;§n§oДуговой_печи§r>.
+
+ie.manual.entry.balloon.name=Воздушный шар
+ie.manual.entry.balloon.subtext=99 Red Balloons (отсылка)
+ie.manual.entry.balloon0=Воздушные шары - это мешки из ткани, под которыми находится источник тепла, что заставляет их парить в воздухе. Они также излучают свет, но не представляют опасности от огня.<br>Воздушные шары можно ставить как обычные блоки. А если блок не выбран в цель, то они будут размещены в воздухе перед Вами.
+ie.manual.entry.balloon1=Вы можете прикрепить к ним Пеньковый канат и Стальной трос, как и к <link;metalconstruction;§o§nКоннектору§r;5> декоративного кабеля.<br>Shift+ПКМ задаёт смещение, что позволит разместить его на высоте до 5 блоков над целью.<br>Вы можете использовать красители на размещённом шаре. Сторона окраски будет зависеть от того, куда вы нацелились.<br>ПКМ Молотом инженера переключает дизайн шара между горизонтальными и вертикальными полосами (видно только при покраске).
+
+ie.manual.entry.crate.name=Деревянный ящик для хранения
+ie.manual.entry.crate.subtext=Переносим оборудование
+ie.manual.entry.crate0=Эти ящики очень похожи на сундуки. Изготавливаются из обработанной древесины. В них 27 слотов. Если их сломать, они сохранят своё содержимое, позволяя перемещать их вместе с предметами внутри.<br>Как и обычные сундуки, они выдают сигнал красного камня от компаратора в зависимости от количества предметов внутри.
+
+ie.manual.entry.barrel.name=Деревянные бочки
+ie.manual.entry.barrel.subtext=Не катятся
+ie.manual.entry.barrel0=Это простые ёмкости, в которые можно заливать жидкости. Их объём - 12 вёдер, но поскольку они деревянные, в них нельзя хранить газы или горячие жидкости.<br>Щёлкнув ПКМ по верхней или нижней стороне §lМолотом§r, можно переключиться между входом/выходом или перекрыть соединение.
+
+ie.manual.entry.jerrycan.name=Канистра
+ie.manual.entry.jerrycan.subtext=Лучше чем вёдра
+ie.manual.entry.jerrycan0=Простые металлические контейнеры для переноса жидкостей. Их вместимость - 10 вёдер. Жидкость можно выливать в мир и в машины, но они не могут забирать жидкость из мира. Их можно использовать для заправки других предметов, например, <link;drill;§o§nШахтёрский_бур§r>, объединив их вместе в сетке крафта.
+
+ie.manual.entry.toolbox.name=Набор инструментов инженера
+ie.manual.entry.toolbox.subtext=Ваш верный чемоданчик
+ie.manual.entry.toolbox0=Это простой переносной контейнер для хранения всего самого необходимого для инженера! Наведя курсор на слоты, Вы узнаете, что они могут хранить.<br>Слоты "Еда" и "Разное" не требуют пояснений. "Проводка" - для катушек, коннекторов и подобных предметов, а в слоте "Инструменты" можно хранить любые инструменты из IE, а ещё кирки, лопаты и топоры!
+
+ie.manual.entry.graphite.name=Графит
+ie.manual.entry.graphite.subtext=Изделие из угля
+ie.manual.entry.graphite0=Высокоориентированный пиролитический графит (ВОПГ) - это сложный, сильно спрессованный углеродный материал, используемый в специальных инженерных конструкциях.<br>ВОПГ пыль создаётся путём сжатия восьми кучек коксовой пыли в <link;biodiesel;§o§nПромышленной_выжималке§r;1>. Затем эту пыль можно переплавить в слиток.
+ie.manual.entry.graphite1=Наиболее распространённым применением ВОПГ является создание электродов для <link;arcfurnace;§o§nДуговой_Печи§r>. Эти электроды создаются с помощью <link;blueprints;§o§nЧертежей_инженера§r>, которые можно найти в определённых сундуках или выменять у жителей деревни.
+
+ie.manual.entry.wiring.name=Основы электромонтажа
+ie.manual.entry.wiring.subtext=Бзззз!
+ie.manual.entry.wiring0=Энергетика IE состоит из четырёх важных блоков: §lКонденсаторы§r - хранят и отдают энергию. §lКоннекторы§r - как точки входа/выхода энергии и "удлинители" провода. §lВысоковольтный§r §lконнектор§r используется только как точка входа/выхода энергии. §lВысоковольтное§r §lреле§r - только как удлинители для высоковольтных проводов, их нельзя подключить к источнику или приёмнику напрямую. §lТрансформаторы§r - для преобразования энергии в большую или меньшую сторону.
+ie.manual.entry.wiring1=Чтобы соединить два коннектора, просто нажмите ПКМ на первый из них катушкой провода, затем используйте ту же катушку на втором. Вы не можете подключить высоковольтный провод к низковольтному коннектору и наоборот. Коннекторы и уровни кабелей должны соблюдаться. Кроме случаев с трансформаторами (см. далее).
+ie.manual.entry.wiring2=§lКоннекторы§r и §2реле§r будут принимать провода только того же типа, что уже подключены к ним. §lТрансформаторы§r будут принимать только два провода разного типа.<br>
+ie.manual.entry.wiring3=Рис1: Преобразование ср. в низкое напряжение. Рис2: Высокое в среднее. Схему можно инвертировать.
+ie.manual.entry.wiring4=Замечания по проводке:<br>каждый коннектор имеет входную величину (§o<config;iA;wireConnectorInput>§r) и каждый провод имеет максимальную пропускную способность (§o<config;iA;cableTransferRate;l3>§r).<br>Коннектор ограничивает количество вводимой и выводимой энергии, но несколько коннекторов могут §lобъединиться§r в один провод, что позволяет передавать энергию на большие расстояния. §lВнимание!§r Максимальная пропускная способность кабеля не должна быть превышена, иначе провод §o§lсгорит§r!
+ie.manual.entry.wiring5=§n§lПровода могут передавать энергию через незагруженные чанки§r.<br><br>Как говорилось ранее, к §2§lвысоковольтному реле§r подключаются только провода, но через них не может входить или выходить энергия в механизмы, они как "удлинитель" или "тройник" для кабелей. На концах цепи всегда должны быть высоковольтные коннекторы для них. Также у них есть §lважная особенность§r - они должны подключаться к потолку блока, т.е. они должны свисать вниз.
+ie.manual.entry.wiringConnector=§lКоннекторы§r служат точками входа и выхода энергии в IE. Вы можете подключить их к конденсаторам или другим RF-совместимым устройствам и они будут передавать энергию по подключенным проводам.
+ie.manual.entry.wiringCapacitor=§lКонденсаторы§r служат в качестве накопителей энергии. Вы можете использовать Молот для настройки каждой стороны, при этом §1синий§r цвет обозначает §1вход§r, §6оранжевый§r - §6выход§r, а отсутствие цветовой маркировки предотвращает любое соединение вообще. Кликните Shift+ПКМ Молотом, чтобы настроить противоположную сторону на которую Вы смотрите.
+ie.manual.entry.wiringTransformer0=§lТрансформаторы§r позволяют переходить между различными типами проводов. Самый слабый провод ограничивает скорость передачи. Обратите внимание, что трансформаторы высокого напряжения могут понижать напряжение до низкого или среднего, поэтому нет необходимости соединять два трансформатора в цепь.
+ie.manual.entry.wiringTransformer1=Помните, что трансформаторы среднего напряжения можно подвесить на <link;wiring;§o§nСтолбы§r;3>, как показано на второй картинке 4-ой странице. Но высоковольтные так подвесить нельзя.
+ie.manual.entry.wiringCutters=§lКусачки§r используются для удаления подсоединённых проводов. Просто нажмите ПКМ по источнику, где прикреплён провод.
+ie.manual.entry.wiringVoltmeter=§lВольтметр§r используется для измерения соединений. Наведите его на любой накопитель энергии или щёлкните им ПКМ по нему и Вы увидите текущий запас энергии. Щёлкните Shift+ПКМ по двум соединениям (коннекторам или реле), чтобы рассчитать средние потери между ними.
+
+ie.manual.entry.generator.name=Генерация энергии
+ie.manual.entry.generator.subtext=Способ первый
+ie.manual.entry.generator0=Чтобы передавать энергию, сначала надо как-то её получить. Один из вариантов - использовать кинетическую силу ветряных мельниц и водяных колёс. Подключив их к кинетическому генератору, они будут генерировать энергию в зависимости от скорости их вращения.
+ie.manual.entry.generatorWindmill=Ветряная мельница - это бесплатный и простой способ получения энергии, хотя и не очень мощный. Её скорость сильно зависит от того, насколько высоко она расположена в мире и насколько открыто пространство перед ней. Она также будет работать быстрее во время дождя или грозы.
+ie.manual.entry.generatorWatermill=Водяное колесо - это тоже простой способ приведения в действие кинетического генератора. Скорость вращения зависит от скорости воды. Для достижения оптимальных результатов направьте воду по полукругу сверху вниз с одной стороны и блоком воды под колесом протекающий дальше. Можно разместить до трех водяных колёс вместе.
+ie.manual.entry.generatorWindmillImproved=Существует и улучшенная ветряная мельница. Хотя её производительность в два раза выше, она также более дорогостоящая. Для её создания требуется прочная ткань из промышленной конопли. Срывайте высокую траву, чтобы найти её семена.
+
+ie.manual.entry.breaker.name=Рубильник
+ie.manual.entry.breaker.subtext=Вкл/Выкл
+ie.manual.entry.breaker0=Рубильники - это просто переключатели, которые могут остановить поток энергии по проводам. Они могут соединять два провода одного типа и пропускать энергию только при активации. Их можно использовать для отделения слишком прожорливых машин от общей электросети или подключения дополнительного комплекта генераторов, когда это необходимо.
+ie.manual.entry.breaker1=Эти рубильники не принимают провода высокого напряжения из-за опасности поражения током.<br>Они будут выдавать сигнал красного камня, когда они включены. Это поведение можно изменить, щёлкнув ПКМ по рубильнику молотом инженера.<br>Кроме того, они являются отличным способом контролировать Ваше <link;lighting;§n§oосвещение§r;1>!
+ie.manual.entry.breaker2=Прерыватель цепи на красном камне похож на обычный рубильник, но он не может управляться вручную. Для разрыва соединения требуется сигнал красного камня. В свою очередь, это устройство достаточно хорошо изолировано, чтобы к нему можно было подключать и высоковольтные провода.
+
+ie.manual.entry.eMeter.name=Измеритель напряжения в цепи
+ie.manual.entry.eMeter.subtext=88 §mМиль§r Flux в час!
+ie.manual.entry.eMeter0=Это устройство для измерения электрической энергии. Оно может быть подключено к любой линии электропередач и будет отслеживать энергию, передаваемую по ней, показывая среднее значение RF/такт при нажатии правой кнопки мыши.
+
+ie.manual.entry.thermoElectric.name=Термоэлектрический генератор
+ie.manual.entry.thermoElectric.subtext=Горячий и холодный
+ie.manual.entry.thermoElectric0=Термоэлектрические генераторы - это ещё один вариант выработки электроэнергии, работающий без использования каких-либо механических частей, вместо этого они используют разницу температур между двумя источниками. По началу используйте лаву и воду разместив их друг на против друга от генератора.
+ie.manual.entry.thermoElectric1=В таблице ниже приведены другие, твёрдые блоки, которые можно использовать в качестве источников температуры.<br>Список расширится при наличии других совместимых модов.<br>§4Внимание!§r Возможно, генератор конфликтует с модом §lOptiFine§r. Встречались краши игры!
+
+ie.manual.entry.blastfurnace.name=Упрощённая доменная печь
+ie.manual.entry.blastfurnace.subtext=Первая сталь
+ie.manual.entry.blastfurnace0=(До ввода продвинутой версии, она называлась просто "Доменная печь"). Она используется для насыщения углеродом железа, превращая его в сталь. Для этого в печи можно использовать только чистое высокоуглеродистое топливо, в частности, коксовый и древесный уголь.<br>Наряду со сталью в печи образуется шлак, который необходимо удалять, иначе печь перестанет работать. Хотя технически шлак является отходом, его можно использовать для производства бетона.
+ie.manual.entry.blastfurnaceBlock=Чтобы создать доменную печь, расположите 27 её блоков в кубе 3x3x3 и щёлкните ПКМ по одному из центральных блоков боковых сторон с помощью молота инженера.<br>Смотрите схему на следующей странице.
+ie.manual.entry.blastfurnace1=Упрощённая доменная печь не поддается автоматизации. Все входы и выходы должны обслуживаться вручную в графическом интерфейсе. Если Вы хотите автоматизировать процесс производства стали, Вам, вероятно, следует рассмотреть возможность создания <link;improvedBlastfurnace;§o§nпродвинутой_версии§r;>.
+
+ie.manual.entry.improvedBlastfurnace.name=Продвинутая доменная печь
+ie.manual.entry.improvedBlastfurnace.subtext=Промышленный апгрейд
+ie.manual.entry.improvedBlastfurnace0=Продвинутая доменная печь - это более профессиональный способ создания <link;blastfurnace;§o§nстали§r;>. Она не только позволяет автоматизировать входы и выходы, но и может быть оснащена §lВспомогательными нагревателями§r для ускорения процесса обработки железа путём добавления горячего воздуха.<br> Печь сделана из укреплённого кирпича, поэтому первые партии стали лучше потратить на эту модернизацию.
+ie.manual.entry.improvedBlastfurnace1=Конструкция печи похожа на своего первого предшественника, но кирпичи используются укреплённые, а сверху была добавлена воронка для ввода железа по сбрасывающей конвейерной ленте.
+ie.manual.entry.improvedBlastfurnace2=Сталь выводится с лицевой стороны печи, а шлак - с задней. Печь автоматически выгружает сталь к подключенным хранилищам или на конвейерные ленты. Железо, древесный или коксовый уголь подаются через верх.
+ie.manual.entry.improvedBlastfurnace3=Вспомогательные нагреватели нужны для нагрева воздуха и вдувания его в печь для ускорения создания стали. К каждой печи можно подключить до двух нагревателей. Порты расположены с боковых сторон. Каждый нагреватель требует <config;i;preheater_consumption> RF/такт для работы. Во время работы у них крутятся лопасти.
+
+ie.manual.entry.metalconstruction.name=Металлические конструкции
+ie.manual.entry.metalconstruction.subtext=Тяжесть - это надёжно (c)
+ie.manual.entry.metalconstruction0=Помимо обработанной древесины и металлы могут служить обычными строительными блоками. Почти из любого металла можно изготовить блоки и плиты, а из железных пластин - листовой металл.
+ie.manual.entry.metalconstruction1=Сталь является не только неотъемлемой частью высоковольтных кабелей, коннекторов, но и весьма полезна в архитектуре. Стальные леса могут использоваться для быстрого создания подъёмных конструкций, стальной забор держит недоброжелателей на расстоянии, а настенные крепления отлично подойдут для реле высокого напряжения.
+ie.manual.entry.metalconstruction2=Коннекторы декоративного кабеля работают так же, как и обычные крепления, но вместо передачи энергии они выполняют чисто декоративную функцию.<br>К ним можно подключить только пеньковый канат и стальной трос (см. следующую страницу).<br>Вы также можете вращать их, щёлкнув по ним ПКМ молотом инженера.
+
+ie.manual.entry.lighting.name=Инженерное освещение
+ie.manual.entry.lighting.subtext=Освещаем промышленные цеха
+ie.manual.entry.lighting0=В глубинах заводских цехов может быть довольно темно. Для того чтобы ориентироваться, Вам нужно осветить своё рабочее место электрическими фонарями. Эти фонари дают столько же света, сколько блок светящегося камня.
+ie.manual.entry.lighting1=Электрические фонари - это один из первых изобретённых способов использования электроэнергии. Их нужно подключить непосредственно к электросети с помощью проводов. Они позволяют передавать энергию через себя, поэтому вы можете соединить их в ряд.
+ie.manual.entry.lighting2=Пока они снабжены небольшим количеством энергии, они будут освещать окружающее пространство, как обычный фонарь, но, кроме того, они будут препятствовать появлению враждебных мобов в радиусе 32 блоков!
+ie.manual.entry.lighting3=Прожекторы - это мощные источники света. Хотя они требуют больше энергии, чем простой фонарь, они создают конус света длиной до 32 блоков. Их можно повернуть или наклонить ПКМ молотом. Это зависит от того как он установлен (на полу или стене). Shift инвертирует вращение.
+
+ie.manual.entry.tanksilo.name=Резервуары и силосные башни
+ie.manual.entry.tanksilo.subtext=Полные до краёв!
+ie.manual.entry.tanksilo0=Хранилища для больших объёмов одного типа. В жидкостных резервуарах можно хранить до 512 вёдер любой жидкости, которую можно подавать по трубам через верхний или нижний блок. Конструкция формируется ПКМ молотом по среднему блоку второго слоя.
+ie.manual.entry.tanksilo1=Силосные башни нужны для хранения одного типа предмета. Они отлично подходят для хранения семян, шлака или булыжника. В них можно поместить 41 472 предмета, что равняется 24 сундукам.
+ie.manual.entry.tanksilo2=Предметы должны загружаться через верхний блок и извлекаться из нижнего. Если применить сигнал красного камня к нижнему блоку, то предметы будут выводиться автоматически.<br>Конструкция формируется ПКМ молотом по среднему блоку второго слоя.
+ie.manual.entry.tanksilo3=Компаратор у выходного блока выдаст сигнал красного камня, пропорциональный заполненности хранилищ. А присоединение его к одному из слоёв хранилища выдаст сигнал, относительно заполненности этого слоя. Например, компаратор, присоединённый ко второму нижнему слою жидк. резервуара, не будет выдавать сигнал, пока резервуар не заполнится на 1/4, и будет увеличивать силу сигнала по мере заполнения слоя.§lДержа в руках ведро или канистру, хранилище покажет сколько в нём жидкости.§r
+
+ie.manual.entry.metalbarrel.name=Металлические бочки
+ie.manual.entry.metalbarrel.subtext=Всё ещё не катятся
+ie.manual.entry.metalbarrel0=Они работают точно так же, как <link;barrel;§o§nдеревянные§r;>. Хранят такое же количество жидкости, их входы и выходы настраиваются одинаково, но в отличие от деревянной версии, в них можно хранить газы и горячие жидкости.
+
+ie.manual.entry.metalPress.name=Металлоформовочный пресс
+ie.manual.entry.metalPress.subtext=Under Pressure! (отсылка)
+ie.manual.entry.metalPress0=Пресс для автоматизированного придания форм металлу. Он использует поршень высокого давления прижимая форму к слитку, формируя его в пластину, стержень или др. металлические компоненты.<br>Чтобы сформировать мультиблок, щёлкните на поршень ПКМ молотом. Повернуть поршень вниз можно им же.
+ie.manual.entry.metalPress1=Питание подаётся через верхний блок. Слитки  металлов проходят через конвейеры, в направлении движения. Готовая продукция дальше, по конвейеру, отправляется в сундук или другое хранилище.
+ie.manual.entry.metalPress2=Для работы пресса нужно установить пресс-форму на поршень. Как изготавливаются сами формы - показано выше. Разные моды могут добавлять свои формы.
+
+ie.manual.entry.assembler.name=Сборочный автомат
+ie.manual.entry.assembler.subtext=Автоматизация задач
+ie.manual.entry.assembler0=Это сложная машина, способная создавать предметы, подобно тому, как это делает игрок.<br>Постройте её как показано на схеме. Используйте молот инженера на одном из конвейеров для формирования мультиблока.
+ie.manual.entry.assembler1=Конвейер, на который Вы кликнули, будет входным (на это указывает синий маркер). Также Вы увидите стрелку на боку машины.<br>Сборочный автомат хранит в себе до 3-ёх рецептов, которые будут выполняться по порядку. Результаты предыдущих рецептов могут быть использованы для следующих.<br>В трёх решётках выкладываются шаблоны рецептов, а 18 слотов под ними - это инвентарь для материалов.
+ie.manual.entry.assembler2=Также в автомате есть порт для разных жидкостей (3 резервуара). Жидкость в них заменяет вёдра, которые используются для рецептов в крафте.<br>Энергия для машины подается через верхний центральный блок.
+
+ie.manual.entry.bottlingMachine.name=Разливочная машина
+ie.manual.entry.bottlingMachine.subtext=Наполнит с "горочкой"!
+ie.manual.entry.bottlingMachine0=Машина наполняющая ёмкости. Структура создаётся, как показано выше, направление конвейеров важно, но может быть зеркальным. Для формирования структуры, кликните ПКМ молотом по центральному конвейеру.
+ie.manual.entry.bottlingMachine1=Жидкость подаётся через центральный нижний порт, а предметы через конвейеры. Движение конвейеров указывают на вход и выход. Энергия подается через верхнюю часть.<br>Разливочная машина может заполнить любой сосуд, который имеет наполненную версию (ведро, пузырёк, капсула). Она также может принимать жидкостные контейнеры, например, <link;drill;§o§nШахтёрский_бур§r> или <link;jerrycan;§o§nКанистра§r>.
+
+ie.manual.entry.chargingStation.name=Зарядная станция
+ie.manual.entry.chargingStation.subtext=Без проводов
+ie.manual.entry.chargingStation0=Как не трудно догадаться - это устройство, позволяющее заряжать инструменты и другие предметы. Энергию можно подавать через нижнюю или заднюю часть, а предметы можно помещать вручную или автоматически. Зарядная станция работает и для предметов, питающихся от энергии §3IndustrialCraft 2 (EU)§r.
+ie.manual.entry.chargingStation1=Электронные трубки в передней части подают сигнал о текущем заряде предмета. Устройство также выдаёт сигнал компаратора для тех же целей.
+
+ie.manual.entry.highvoltage.name=Высокое напряжение
+ie.manual.entry.highvoltage.subtext=Опасно для жизни!
+ie.manual.entry.highvoltage0=У высоков-ых проводов самая высокая скорость передачи (<config;iA;cableTransferRate;2> RF/такт). Заметьте, что §lВысоков. коннекторы§r и §2Реле§r - это разные блоки. §2Реле§r не может вводить и выводить энергию в устройства и их можно разместить только на нижней стороне блока (на потолке).<br>Для соединения от высок-ых к средн-ым или низков-ым проводам Вам нужны §lВысоковольтные трансформаторы§r. Самый низкий уровень провода ограничивает передачу всего соединения. Поражение током ещё не реализовано.
+
+ie.manual.entry.multiblocks.name=Многоблочные конструкции
+ie.manual.entry.multiblocks.subtext=Где мой шестигранный ключ?
+ie.manual.entry.multiblocks0=Вместить сложные механизмы в один блок 1x1x1 кажется задачей, с которой невозможно справиться без использования магии или, возможно, уменьшающих лучей. Лучше оставить эту затею §5Тауматургам§r и §5Ведьмам§r... А современному инженеру для создания более сложных машин понадобятся блоки компонентов. Наиболее распространенные из них перечислены на следующих страницах.<br>При наличии мода §lWaila§r посмотрев на машину и нажав "4" на цифр. клавиатуре покажет её рецепты.
+
+ie.manual.entry.workbench.name=Верстак инженера
+ie.manual.entry.workbench.subtext=Прокачиваем изобретения
+ie.manual.entry.workbench0=В ходе своей инженерной карьеры Вы можете столкнуться с некоторыми инструментами, которые можно изменить и модифицировать. Чтобы применить эти модификации, Вы должны использовать правильно оборудованный верстак инженера.<br>Зайдите в интерфейс, поместите изобретение из IE и Вы увидите слоты для его модификаций.
+
+ie.manual.entry.blueprints.name=Чертежи инженера
+ie.manual.entry.blueprints.subtext=Читайте инструкции
+ie.manual.entry.blueprints0=Некоторые устройства очень сложны в своей конструкции и просто так "на коленке" их не сделать. Такие предметы нужно создавать по точным чертежам на <link;workbench;§o§nВерстаке_инженера§r>.<br><br>Если в Ваших приключениях попадётся чертёж инженера (а может, Вы и сами его создадите), Вы можете поместить его в слот верстака инженера.
+ie.manual.entry.blueprints1=Чтобы создать предметы из чертежа, вставьте необходимые материалы в 6 слотов в центре, а затем готовые результаты извлеките из выходных слотов справа. Наведя курсор мыши на эти выходные слоты, вы узнаете, какие именно материалы необходимы для каждого предмета. 
+
+ie.manual.entry.dieselgen.name=Дизельный генератор
+ie.manual.entry.dieselgen.subtext=Мне нужно больше энергии!
+ie.manual.entry.dieselgen0=Высоковольтная архитектура, безусловно, важна, но она бесполезна, если у Вас нет генератора, который может создать необходимую для неё мощность.<br>Дизельный генератор - один из немногих способов получения большого количества энергии. Он создан в виде сложной многоблочной структуры и работает на <link;biodiesel;§o§nБиодизеле§r> или горючем из нек. др. модов. Он очень быстро расходует топливо, поэтому убедитесь, что у Вас его достаточно чтобы прокормить этот генератор.
+ie.manual.entry.dieselgen1=Конструкция состоит из тяжёлых инженерных блоков, двигателей, и радиаторов. Расположите их в форме, показанной выше, и кликните ПКМ молотом по центральному генераторному, либо по центральному радиаторному блоку.
+ie.manual.entry.dieselgen2=Топливо поступает в нижние 2 порта, а энергия выводится через верхние 3 соединения. Мощность <config;i;dieselGen_output> RF/такт, которую выдает генератор, будет разделена между всеми подключенными коннекторами.<br>Маленькая красная точка сбоку выключит генератор, если на неё будет подан сигнал красного камня, или туда можно прикрепить §lРубильник§r.<br>Вы можете отзеркалить генератор, щёлкнув ПКМ молотом по заднему центральному блоку (верхний оранжевый блок). 
+ie.manual.entry.dieselgen3=В таблице перечислены все допустимые виды топлива для дизельного генератора и время их горения в секундах (в скобках указаны такты). Таблица будет расширена при наличии других модов добавляющих горючее.
+
+ie.manual.entry.biodiesel.name=Биодизель
+ie.manual.entry.biodiesel.subtext="Зелёная" энергия!
+ie.manual.entry.biodiesel0=Горючее из нефтепродуктов - это очень ценное топливо. Но поскольку нефть является истощаемым ресурсом, гораздо предпочтительнее было бы использовать что-то возобновляемое. Биодизель - вот решение! Смешав растительное масло и этанол, можно получить горючую жидкость, которая будет использоваться в <link;dieselgen;§o§nДизельном_генераторе§r>.
+ie.manual.entry.biodiesel1=Растительное масло создаётся из разных §lсемян§r в промышленной выжималке. Схема указана выше. ПКМ молотом по центру сформирует мультиблок. Семена можно подавать сбрасывающим конвейером сверху, обычным конвейером сбоку или воронкой. Энергия подаётся сверху или снизу.
+ie.manual.entry.biodiesel1T=Масло выводится через любые 4 порта по бокам снизу.<br><br>В следующей таблице указаны различные семена, которые можно выжать в растительное масло, и его объём, который они в себе имеют. Другие моды могут добавить что-то своё.
+ie.manual.entry.biodiesel2=Этанол получают путём ферментации §lсахарного тростника, яблок, арбуза и картофеля§r (возможно ещё что-то из др. модов). Структура ферментера создаётся по аналогии со структурой выжималки, поэтому потребляемая мощность, входы и выходы идентичны.
+ie.manual.entry.biodiesel2T=В приведённом ниже списке указаны различные продукты, которые можно переработать в этанол, и их объём.
+ie.manual.entry.biodiesel3=Наконец, чтобы переработать растительное масло и этанол в биодизель, необходимо залить обе жидкости в очиститель биотоплива и подать на него энергию. Конструкция создаётся, как показано выше, и формируется ПКМ молотом по центру тяжёлого инженерного блока.
+ie.manual.entry.biodiesel4=Передний порт очистителя служит для вывода топлива, а порты для ввода масла и этанола расположены по бокам. Энергия подаётся через разъём сзади. Поместите §lРубильник§r на панель управления (красная точка) чтобы можно было останавливать машину. Или подайте сигнал красного камня другим способом.
+
+ie.manual.entry.conveyor.name=Конвейеры
+ie.manual.entry.conveyor.subtext=Кому вообще нужны рельсы?
+ie.manual.entry.conveyor0=Конвейерные ленты - это простой способ транспортировки всевозможных предметов по вашей базе. Хотя они могут перемещать живых существ, таких как коровы или овцы, их главное применение в транспортировке предметов.<br>Если бросить на них предметы, они будут перемещаться по ленте. Если конвейерная лента ведёт в инвентарь, предмет отправится в него.
+ie.manual.entry.conveyor1=Блоки, подобные воронкам, могут сбрасывать предметы на ленту. Используйте молот инженера, чтобы повернуть ленту (ПКМ) или настроить её движение вверх или вниз (Shift+ПКМ).<br>По умолчанию конвейеры направлены в сторону от игрока. Если установить их зажав Shift, то они будут повёрнуты на него.
+ie.manual.entry.conveyor2=Сбрасывающая конвейерная лента - это просто конвейер с люком посередине, для сброса предметов вниз, проходящих через него.<br>Предметы будут помещены в инвентарь внизу или просто сброшены в мир, если под конвейером есть свободное место.
+
+ie.manual.entry.furnaceHeater.name=Внешний нагреватель
+ie.manual.entry.furnaceHeater.subtext=Теперь Вы готовите с Flux'ом!
+ie.manual.entry.furnaceHeater0=Внешний нагреватель создаёт §lэнергию тепла§r из энергии §lRF§r. Поместив его рядом с обычной печью - та будет работать без топлива внутри. §n1 нагреватель будет потреблять 32 RF/такт при непрерывной работе, если не изменён конфиг. файл мода.§r На одну печь можно установить неск. нагревателей. Скорость обработки увеличится.
+ie.manual.entry.furnaceHeater1=Щёлкните ПКМ молотом по стороне нагревателя, чтобы сделать точку для коннектора для приёма энергии. ПКМ с зажатым Shift установит точку на противоположной стороне.<br>Нагреватель будет потреблять §o<config;i;heater_consumption> RF/такт§r за §l1 единицу тепла§r. На начальном этапе печь будет потреблять до §l4 единиц тепла§r, но как только она достигнет максимальной температуры, ей потребуется только §l1 единица тепла§r для поддержания работы.
+ie.manual.entry.furnaceHeater2=Более того, пока печь находится при максимальной температуре, нагреватель будет потреблять дополнительные §o<config;i;heater_speedupConsumption> RF/такт§r, чтобы увеличить скорость работы печи.<br>В целях экономии энергии нагреватель будет включаться только когда в печь попадает предмет. Однако Вы можете применить сигнал красного камня к нагревателю, чтобы отключить эту функцию и заставить его работать всегда.<br>Нагреватель поддерживает моды §5§lThaumcraft§r (Алхим. печь) и §a§lCutting Edge§r (Испаритель).
+
+ie.manual.entry.fluidPipes.name=Транспортировка жидкости
+ie.manual.entry.fluidPipes.subtext=Профессиональный водопроводчик
+ie.manual.entry.fluidPipes0=Транспортировка жидкостей стала весьма необходимой в инженерном деле. Сами по себе трубы довольно медленно передают её, но если использовать насос для вкачивания жидкости в трубу, то она будет двигаться гораздо быстрее.
+ie.manual.entry.fluidPipes1=Вы можете щёлкнуть ПКМ по соединительной части трубы молотом инженера, чтобы разорвать соединение.<br>Трубы для жидкости можно покрыть деревянными или стальными строительными лесами. Просто щёлкните ПКМ ими по трубе для их облицовки. Сломайте трубу, чтобы извлечь леса.
+ie.manual.entry.fluidPipes2=Насосы выполняют три основные функции. Их можно использовать для ввода в трубы под высоким давлением, для более быстрой передачи жидкостей или для забора жидкостей из окружающего мира. ПКМ молотом на основании насоса переключит стороны между входом и выходом.
+ie.manual.entry.fluidPipes3=Для того чтобы насос мог забирать блоки жидкости из мира, ему нужно питание, вход которого расположен сверху, и сигнал красного камня. Насосы можно использовать для извлечения жидкостей из резервуаров и других ёмкостей, которые не имеют автоматического выхода. Для этого также потребуется сигнал красного камня, но на этот процесс энергия уже будет не нужна.
+ie.manual.entry.fluidPipes4=<config;b;pump_infiniteWater;Блоки воды будут служить бесконечным источником воды для насоса, если §lне менее 3 блоков§r прилегает к нему.<br><br>;><config;b;pump_placeCobble;Блоки с жидкостью, которые выкачали, будут заменены булыжником, чтобы уменьшить лаги от анимации текущей жидкости. Это поведение можно отключить, используя §lКусачки§r на насосе.;>
+
+ie.manual.entry.sorter.name=Сортировщик
+ie.manual.entry.sorter.subtext=Это налево, а то направо
+ie.manual.entry.sorter0=Сортировщик - это блок, который будет принимать и перераспределять предметы по отфильтрованным путям. Поставьте его и зайдите в интерфейс. Он показывает различные фильтры, согласованные по цвету и направлению.
+ie.manual.entry.sorter1=Когда предмет попадает в сортировщик, он направляется на заданный выход фильтра, если подходящего фильтра не найдено, он направляется на выход без фильтров. Если предмет не соответствует фильтрам, то он не войдёт в сортировщик. Предмет также не может быть выведен на сторону, с которой он был введён.<br>Обратите внимание, что фильтрация по словарю руд (OreDictionary) немного более требовательна к производительности Вашего компьютера.
+
+ie.manual.entry.drill.name=Шахтёрский бур
+ie.manual.entry.drill.subtext=Мой бур пробьётся через бэдрок!
+ie.manual.entry.drill0=Ручной бур с дизельным двигателем - это большое достижение в горном деле! Благодаря сменным шнекам и апгрейдам, его свойства можно почти полностью изменить. Чтобы модифицировать его, поместите его в <link;workbench;§o§nВерстак_инженера§r>.<br>Бур работает на <link;biodiesel;§o§nБиодизеле§r> и может быть заправлен прямо на Очистителе, бочкой или канистрой.
+ie.manual.entry.drill1=§3Шнек бура§r определяет §lтвёрдость добываемого блока§r, §lскорость§r и §lплощадь§r, а также §lурон атаки§r. Когда Вы копаете блоки, головка бура постепенно стачивается, но её можно починить на наковальне.
+ie.manual.entry.drill2=Поскольку бур работает на двигателе внутреннего сгорания, он не будет работать под водой, если не оснастить его апгрейдом §3Баллона сжатого воздуха§r. С этим усовершенствованием он не только будет работать под водой, но и не будет замедляться, как это обычно бывает при копании в воде.
+ie.manual.entry.drill3=§3Продвинутая§r §3смазочная§r §3система§r регулярно наносит дополнительную смазку на бур, что позволяет ему копать быстрее.
+ie.manual.entry.drill4=Добавив дополнительные §3буровые§r §3шнеки§r, можно увеличить урон против живых существ. Модификации суммируются до трёх штук, и каждая добавляет дополнительное очко урона атаки.
+ie.manual.entry.drill5=§3Большой§r §3топливный§r §3бак§r увеличивает время работы до дозаправки.
+
+ie.manual.entry.revolver.name=Револьвер
+ie.manual.entry.revolver.subtext=Разыскивается: живым или мёртвым
+ie.manual.entry.revolver0=Это элегантное оружие более цивилизованной эпохи, является достижением малой механики. Малая - это относительно, поскольку это оружие 12-го калибра.<br>Как и Шахтёрский бур, револьвер можно модифицировать в <link;workbench;§o§nВерстаке_инженера§r>, как будет описано далее.
+ie.manual.entry.revolver1=Револьвер может использовать различные <link;bullets;§o§nтипы_патронов§r;>. Чтобы зарядить его, щёлкните Shift+ПКМ, а затем поместите патроны в барабан.<br>§lУскоритель заряжания§r в Вашем инвентаре будет использоваться для перезарядки револьвера после последнего выстрела. Его надо заряжать отдельно.
+ie.manual.entry.revolver2=Прикрепив к револьверу §3Штык§r, Вы получите возможность вести бой в ближнем бою, нанося урон не хуже железного меча.
+ie.manual.entry.revolver3=§3Увеличенный магазин§r позволяет зарядить в револьвер еще 6 патронов. Этот магазин не пополняется "ускорителем заряжания".
+ie.manual.entry.revolver4=§3Усилители электроламп§r делают пули электрическими. Заряд сохраняется до попадания в цель (не спрашивайте, как это работает). Цель будет оглушена на долю секунды. Если на цели присутствует броня, заряженная RF или EU энергией, то она разрядится на 15% за выстрел.
+
+ie.manual.entry.bullets.name=Патроны для револьвера
+ie.manual.entry.bullets.subtext=Широкий ассортимент
+ie.manual.entry.bullets0=Патроны создаются в верстаке инженера с помощью <link;blueprints;§o§nЧертежей инженера§r>. Чертежи для обычных патронов Вы можете создать сами, но чертежи для некоторых более продвинутых и экзотических типов патронов Вам придётся найти самим или купить у кого-то другого. Некоторые типы патронов доступны только при установке модов §l§2Botania§r и §l§bEt Futurum§r.
+ie.manual.entry.bullets1=<br>Патроны §l.454 Casull§r. Это простая свинцовая пуля, наносящая 10 ед. урона.
+ie.manual.entry.bullets2=<br>§lБронебойные патроны§r. Они наносят тоже 10 ед. урона, и пробивают §lброню§r за счёт огромной кинетической силы. Т.е. они не снижают урон по бронированным целям.
+ie.manual.entry.bullets3=<br>§lПатроны с картечью§r. Наполнены множеством крупных дробинок, вылетающих в форме конуса. Этот патрон очень эффективен при стрельбе в упор.
+ie.manual.entry.bullets4=<br>§lФугасные патроны§r. Пуля со взрывчаткой внутри. Эффективны против очень плотной толпы. Взрыв не уничтожает блоки, но уничтожит валяющиеся предметы.
+ie.manual.entry.bullets5=<br>§lСеребряные патроны§r. Состоят из свинцового сердечника, обёрнутого серебром, что делает их очень эффективными против... оборотней?! Имеет обычный урон как у .454 Casull. Пуля разработана против оборотней из мода Witchery.
+ie.manual.entry.bullets6=<br>Патроны §l"Дыхание дракона"§r. Действие как у картечи, но ненадолго поджигают цель. Урон слабее картечи. Лучше использовать на средней дистанции для поражения нескольких целей. Создаются с помощью чертежа "Особых патронов".
+ie.manual.entry.bullets7=<br>§lПатроны с эффектом зелья§r. Наполняются любым зельем в сетке крафта. Обычные зелья требуют прямого попадания, "Взрывные" имеют область поражения, а "Оседающие" создают временное облако от эффекта зелья. "Оседающие" доступны только при установке мода §lEt Futurum§r. Создаются с помощью чертежа "Особых патронов".
+ie.manual.entry.bulletsBotania0=<br>§lСамонаводящиеся патроны§r. Доступны при установке мода §lBotania§r. Наносят 10 ед. урона. Создаются из магического металла "Террасталь" (Terrasteel), что даёт им способность наводиться на ближайшую цель. Ей нужен небольшой начальный разгон. Создаются с помощью чертежа "Особых патронов".
+ie.manual.entry.bulletsBotania1=<br>Патроны §l"Стая волков"§r. Доступны при установке мода §lBotania§r. Пуля, которая при попадании разлетается на 6 частей и затем эти части самонаводятся на ближайшие цели. Создаются с помощью чертежа "Особых патронов".
+#ie.manual.entry.bullets1=These are common types of ammunition, created with simple, selfmade blueprints:<br><br>§lCasull:§r Simple lead projectile, capable of inflicting medium damage.<br>§lArmor-Piercing:§r Dense metal projectile, penetrates the armor by sheer kinetic force.<br>§lBuckshot:§r Collection of small projectiles, spreading in a cone shape. Effective at short range.<br>§lHigh-Explosive:§r Creates small explosion on impact.<br>§lSilver:§r Lead core in silver, effective against...werewolves?!
+#ie.manual.entry.bullets2=These are more intricate types of ammunition, created with unique blueprints that cannot be crafted, only found or bought.<br><br>§lDragon's Breath:§r Flammable metal dust, creates a short-ranged inferno.<config;b;botaniaBullets;<br>§lHoming:§r Will home in on the closest target.<br>§lWolfpack:§r Unguided cluster projectile, splits into 6 small, homing, shots.;><br>§lPhial:§r Can be crafted with any potion to create a shot that inflicts the potion effect.
+
+ie.manual.entry.chemthrower.name=Химический распылитель
+ie.manual.entry.chemthrower.subtext=Ну сейчас я буду отжигать!
+ie.manual.entry.chemthrower0=Это изобретение можно заправить любой жидкостью или газом. При нажатии ПКМ оно будет распылять её.<br>В устройстве также предусмотрена специальная нагревающая лампа для поджога жидкости, если она горючая. Чтобы включить §4Режим огнемёта§r нажмите Shift+ПКМ.
+ie.manual.entry.chemthrower1=Это изобретение можно модифицировать в <link;workbench;§o§nВерстаке_инженера§r>. Улучшения влияют на объём резервуара, дальность и разброс.<br><br>§6Большой топливный бак§r увеличивает ёмкость распылителя на 2000 mb.
+ie.manual.entry.chemthrower2=§6Сфокусированная насадка§r уменьшает разброс распыляемых жидкостей и немного увеличивает их дальность, позволяя поражать дальние цели с большей точностью.<br>§lВозможно, Вы захотите залить в распылитель какую-нибудь §5ядрёную химию§r §lиз других модов...§r
+
+ie.manual.entry.skyhook.name=Небесный крюк инженера
+ie.manual.entry.skyhook.subtext=Букер, лови!
+ie.manual.entry.skyhook0=Специальный крюк с небольшим мотором, предназначенный для зацепки к проводам, пеньковым канатам или стальным тросам.<br>С его помощью инженеры могут быстро перемещаться по всей длине линии электропередач, чтобы иметь лёгкий доступ от одной подстанции к другой или другим объектам.
+ie.manual.entry.skyhook1=Просто удерживайте ПКМ, находясь в двух блоках от коннектора, к которому прилегает кабель и Вы прикрепитесь к нему.<br>Если отпустить кнопку или нажать Shift, то Вы спрыгните. Будьте осторожны.<br><br>§lПомните, что Вы не можете схватиться за провод на середине его длинны. Это можно сделать только возле коннектора!§r
+
+ie.manual.entry.shader.name=Шейдеры
+ie.manual.entry.shader.subtext=Синий! Нет, жёлтый!
+
+ie.manual.entry.shader0=Шейдеры могут раскрасить Ваши изобретения. Вы можете найти их в мире или купить у жителей деревень. Их можно применить к <link;revolver;§o§nРевольверу§r>, <link;drill;§o§nШахтёрскому_буру§r>, <link;chemthrower;§o§nХимическому_распылителю§r> или <link;railgun;§o§nРельсотрону§r> (и, возможно, к другим предметам, которые Вам ещё предстоит открыть). Просто поместите изобретение в <link;workbench;§o§nВерстак_инженера§r> и установите шейдер в соответствующий слот.<br>Вы также можете применить их к §lВагонетке§r или <link;balloon;§o§nВоздушному_шару§r>, щёлкнув ПКМ!
+ie.manual.entry.shader1=§lМешок с шейдером§r хранит в себе случайный шейдер. Их можно найти в сундуках, выменять у жителей деревни или получить как добычу с боссов. Редкость шейдера внутри мешка может быть §lвыше§r, чем сам мешок. При открытии мешка Вы с большей вероятностью получите шейдер, которого у Вас ещё не было.
+ie.manual.entry.shader2=Мешки с шейдерами можно переделать в два мешка более низкого уровня. Сами шейдеры также можно переделать в один мешок более низкого уровня.
+
+ie.manual.entry.railgun.name=Рельсотрон
+ie.manual.entry.railgun.subtext=Velocitas Eradico (отсылка)
+ie.manual.entry.railgun0=Рельсотрон (или, точнее, портативная индукционная катапульта) - это чудо инженерной мысли. Он состоит из двух параллельных электродов, называемых рельсами, между которых течёт мощный электрический ток, создавая магнитное поле, которое выбрасывает электропроводную массу (снаряд) с безумной скоростью.
+ie.manual.entry.railgun1=Выстрел из него требует больших затрат энергии.<br><br>С модом §lRailcraft§r Вы сможете стрелять арматурой и рельсами. Снаряды используются из Вашего инвентаря. Зажмите ПКМ, пока уровень заряда не достигнет 99, а потом отпустите кнопку.<br>В качестве снарядов можно использовать, например, §nжелезные§r (7) и §nстальные стержни§r (9)<config;b;literalRailGun;, §nарматуру§r и §nпочти все рельсы§r из Railcraft;> (6-8), а также §nГрафитовые электроды§r (12).<br>§lВ скобках указан урон.§r
+ie.manual.entry.railgun2=Выпущенные снаряды можно потом подбирать, также у каждого снаряда своя баллистика.<br>Как и другие инструменты IE, Рельсотрон можно модифицировать в <link;workbench;§o§nВерстаке_инженера§r> и раскрасить <link;shader;§o§nШейдерами§r>.<br><br>§3Дополнительные конденсаторы§r увеличивают запас энергии рельсотрона и значительно сокращают время его зарядки.
+ie.manual.entry.railgun3=§3Снайперский прицел§r позволяет точно целиться. Зажмите Shift, чтобы войти в режим прицела.  Используйте колёсико мыши для переключения между уровнями приближения.<br>§4Прицел§r §4конфликтует§r §4с§r §4модом§r §4OptiFine!§r<br>Используйте функцию приближения OptiFine (Ctrl).
+
+ie.manual.entry.crusher.name=Дробитель
+ie.manual.entry.crusher.subtext=Снять галстуки и засучить рукава!
+ie.manual.entry.crusher0=Дробление руды - это эффективный способ увеличить профит с сырья, т.к. каждая руда дробится в две пыли, которую затем можно переплавить. Эта дробилка промышленного размера - быстрый способ обрабатывать больше объёмы. Машина потребляет до <config;i;crusher_consumption> RF/такт, а скорость её переработки зависит от подводимой мощности.
+ie.manual.entry.crusher1=Однако она используется не только для дробления руд. Любое живое существо, попавшее в машину, вмиг перемолотит все косточки, и выдаст его потроха... Также, все предметы, которые не могут быть переработаны, будут уничтожены.<br>Подача сигнала красного камня (Рубильник) на панель управления в передней части (красная точка) остановит работу машины.<br>Структура формируется ПКМ молотом по центральному блоку §lСтального забора§r.
+
+ie.manual.entry.lightningrod.name=Молниеотвод
+ie.manual.entry.lightningrod.subtext=Thunderstruck! (отсылка)
+ie.manual.entry.lightningrod0=Молния - это явление природы. Она содержит огромное количество необузданной энергии, и этот молниеотвод способен подчинить себе эту мощь.<br>Создав высокий шпиль из §lстальных заборов§r на этом мультиблоке, Вы увеличиваете вероятность того, что в него ударит молния в непогоду.
+ie.manual.entry.lightningrod1=Когда это произойдёт, то накопится огромное количество энергии в основании молниеотвода, а затем она медленно распределится через порты вывода энергии по бокам. Имеет смысл запастись конденсаторами.<br><br>Конструкция создаётся, как показано выше, и формируется ПКМ молотом по центральному блоку.
+ie.manual.entry.lightningrod2=Вы можете повысить шансы на попадание в молниеотвод, создав "сетку" (крышу) из стальных заборов, соединённую с основным шпилем.
+
+ie.manual.entry.minerals.name=Залежи полезных ископаемых
+ie.manual.entry.minerals.subtext=Тонны рудного сырья
+ie.manual.entry.minerals0=Рудные скопления под землёй, находящиеся у Вас под ногами - уже не новость. Но что Вы до сих пор не знали, так это то, что существуют и целые огромные пласты залежей, которые содержат смесь разных руд. Но они захоронены в таких местах, до которых обычный шахтёр никогда не доберётся. Но <link;excavator;§o§nРоторный_экскаватор§r> был разработан специально для этого.
+ie.manual.entry.minerals1=Чтобы найти и определить полезные ископаемые в этом мире, Вам понадобится §lКолонковый бур§r. Эта установка, при подачи энергии, пробурит кусок породы и определит, какой минерал или руду там можно найти.
+ie.manual.entry.minerals2=Колонковый бур потребляет <config;i;coredrill_consumption> RF/такт и требует некоторого времени в тактах (<config;i;coredrill_time>) для полного извлечения и анализа образца.<br>Он сканирует только 1 чанк, поэтому придётся часто его переставлять. Для удобства включите сетку чанков (F9 или F3+G). Рудные пласты находятся также только в пределе одного чанка.<br>На следующих страницах перечислены все типы рудных и минеральных жил, которые можно найти.
+ie.manual.entry.minerals3=%1$s<br>Состоит из: %2$s
+ie.manual.entry.mineralsDimValid=§l%1$s§r - эти залежи можно найти в %2$s.
+ie.manual.entry.mineralsDimInvalid=§l%1$s§r - эти залежи можно найти где угодно, кроме %2$s.
+ie.manual.entry.mineralsDimAny=§l%1$s§r - эти залежи можно найти в любом измерении.
+
+ie.manual.entry.arcfurnace.name=Дуговая печь
+ie.manual.entry.arcfurnace.subtext=Это не реактор 
+ie.manual.entry.arcfurnace0=Дуговая печь - это массивное сооружение, используемое для быстрой плавки металлов. Она состоит из стального чана с электродами, которые нагревают металл.
+ie.manual.entry.arcfurnace1=Печь отлично подходит для плавки руды и создания стали благодаря высокой скорости и способности обрабатывать несколько разных предметов одновременно, но она сложна в своей работе и требует регулярного обслуживания.<br>Шлак необходимо удалять из машины, иначе она перестанет работать, а отработанные электроды со временем необходимо заменять. Печь может утилизировать старую металлическую броню, оружие и инструменты (не повреждённую).
+ie.manual.entry.arcfurnace2=Соберите конструкцию, как показано на первой странице, затем кликните ПКМ на котёл молотом инженера.<br><br>Энергия подаётся через три разъёма сзади, а §lРубильник§r или сигнал красного камня на панели управления (красная точка) выключит машину.
+ie.manual.entry.arcfurnace3=§lИнтерфейс§r может показаться запутанным при первом взгляде, но он довольно прост.<br><br>Три слота в верхней части предназначены для <link;graphite;§o§nГрафитовых_электродов§r;1>.<br>12 слотов слева - это входные слоты для металлов, руд и предметов для утилизации. В каждом слоте есть шкала температуры, отражающая прогресс плавки.
+ie.manual.entry.arcfurnace4=Четыре слота справа предназначены для "добавок" - материалов, добавляемых в расплавленный металл в процессе изготовления. Примером может служить коксовая пыль в расплавленное железо для создания стали.<br>Сырьё и "добавки" подаются через два люка в верхней части конструкции, слева и справа от электродов (они с синими точками).
+ie.manual.entry.arcfurnace5=7 слотов внизу - это 6 слотов для выхода и 1 слот для шлака. Выходящие продукты извлекаются из чана в передней части конструкции, шлак - через порт в задней части машины. Дуговая печь автоматически выгружает продукцию и шлак к подключенным хранилищам или конвейерам.<br>§lНебольшой хитрый совет:§r если есть возможность, то зачаруйте электроды на повышенную прочность или даже бесконечность...
+
+ie.manual.entry.excavator.name=Роторный экскаватор
+ie.manual.entry.excavator.subtext=Лучше чем дворфы
+ie.manual.entry.excavator0=Роторный экскаватор - одна из вершин современной инженерии. Он способен выкапывать <link;minerals;§o§nзалежи§r;0> полезных ископаемых из жил, недоступных для обычной добычи киркой. Однако эта машина представляет собой сложную конструкцию, для работы которой требуется <config;i;excavator_consumption> RF/такт.
+ie.manual.entry.excavator1=Конструкция состоит из двух частей: Двигатель, показанный на первой странице, и ковшовое колесо - на второй, которое помещается в "скобы" двигателя, как показано на предыдущей странице. Вход энергии для двигателя находится сбоку, а сзади - панель управления для красного камня. Там же и порт для выхода добытого сырья.<br>По мере добычи руды, жила постепенно уменьшается, но её может хватить на несколько игровых дней (<config;i;excavator_depletion_days>) для беспрерывной работы.
+
+ie.manual.category.computers.name=Поддержка компьютерных модов
+
+ie.manual.entry.computer.general.name=Общая информация (PC)
+ie.manual.entry.computer.general.subtext=ПЕРЕВОД ГЛАВ МОЖЕТ БЫТЬ НЕТОЧНЫМ!
+ie.manual.entry.computer.general0=Многие машины, описанные в данном руководстве, могут управляться с помощью компьютеров из OpenComputers или ComputerCraft. При использовании OpenComputers для подключения машины к сети необходимо использовать Adapter. Если машина - мультиблок с портом красного камня, то именно к нему Вы можете подключить компьютер. В противном случае ознакомьтесь с информацией о конкретной машине в этой главе. На следующих страницах описаны некоторые часто используемые типы возвратов (return types).
+ie.manual.entry.computer.general1=§lItem stacks§r очень распространенный тип возврата. Они состоят из таблицы, содержащей следующие записи:<br>§lname§r: внутреннее имя предмета, например, "minecraft:cobblestone" для булыжника<br>§lsize§r: размер стека предметов<br>§lnameUnlocalized§r: не локализованное имя предмета, например, "tile.stonebrick" для булыжника. Доступно только в ComputerCraft<br>§llabel§r: Название стека. Изменяется при переименовании стека в наковальне.
+ie.manual.entry.computer.general2=§ldamage§r: Урон (или, в большинстве случаев, метаданные) стека предметов.<br>§lmaxDamage§r: Максимальное количество урона, которое может получить предмет перед разрушением.<br>§lmaxSize§r: Максимальный размер стека для данного предмета. 64 в большинстве случаев.<br>§lhasTag§r: Имеет ли стек метку NBT.
+ie.manual.entry.computer.general3=§lFluid stacks§r: Стек жидкости представляет собой некоторое количество определенной жидкости, которая не обязательно находится в резервуаре. Эти записи доступны в возвращаемой таблице:<br>§lname§r: не локализованное имя жидкости.<br>§lamount§r: количество жидкости, в миллибакетах (mb).<br>§lhasTag§r: имеет ли жидкость метку NBT.
+ie.manual.entry.computer.general4=§lFluid tanks§r аналогичны стекам жидкости, с той разницей, что эта жидкость находится внутри резервуара. Возвращаемая таблица содержит те же записи, что и таблица для стека жидкости. Дополнительно ёмкость резервуара, в котором находится жидкость, хранится в записи §lcapacity§r.
+
+ie.manual.entry.computer.arcfurnace.name=Дуговая печь (PC)
+ie.manual.entry.computer.arcfurnace.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.arcFurnace0=§lsetEnabled(boolean active)§r: разрешает или запрещает работу дуговой печи, как если бы применить сигнал красного камня.<br>§lisActive()§r: возвращает логическое значение true, если дуговая печь в данный момент что-то обрабатывает, и false если нет.<br>§lgetInputStack(int slot)§r: возвращает стек в указанном входном слоте (1-12). Таблица дополнительно имеет ключи §lprogress§r и §lmaxProgress§r для хранения текущего прогресса и прогресса, при котором будет завершена обработка в
+ie.manual.entry.computer.arcFurnace1=указанном слоте (оба значения в тиках).<br>§lgetOutputStack(int slot)§r: возвращает стек в указанном выходном слоте (1-6).<br>§lgetAdditiveStack(int slot)§r: возвращает стек в указанном добавочном слоте (1-4).<br>§lgetSlagStack()§r: возвращает стек в слоте шлака.<br>§lhasElectrodes()§r: возвращает логическое значение, указывающее, все ли 3 электрода в дуговой печи действующие.<br>§lgetElectrode(int slot)§r: возвращает стек элементов указанного электрода (1-4).
+ie.manual.entry.computer.arcFurnace2=§lgetMaxEnergyStored()§r: возвращает максимальное количество энергии, которое может быть сохранено в данной дуговой печи.<br>§lgetEnergyStored()§r: возвращает количество энергии, которое в настоящее время хранится в этой дуговой печи.
+
+ie.manual.entry.computer.sampleDrill.name=Колонковый бур (PC)
+ie.manual.entry.computer.sampleDrill.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.sampleDrill0=Колонковый бур может быть подключен к компьютеру к его нижнему блоку.<br>§lgetSampleProgress()§r: возвращает текущий прогресс отбора проб, 1 означает, что отбор проб закончен, 0 означает, что отбор проб ещё не начался.<br>§lisSamplingFinished()§r: возвращает true, если бур закончил отбор проб, в противном случае возвращается false.<br>§lgetVeinUnlocalizedName()§r: возвращает не локализованное название найденной жилы.
+ie.manual.entry.computer.sampleDrill1=§lgetVeinLocalizedName()§r: возвращает локализованное название найденной жилы.<br>§lgetVeinIntegrity()§r: возвращает заполненность жилы, 1 представляет полную жилу, 0 - пустую и -1 - бесконечную.<br>§lgetEnergyStored()§r: возвращает количество энергии, запасённой в буре.<br>§lgetMaxEnergyStored()§r: возвращает максимальное количество энергии, запасённой в данном буре.
+
+ie.manual.entry.computer.crusher.name=Дробитель (PC)
+ie.manual.entry.computer.crusher.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.crusher0=§lgetQueueLength()§r: количество стеков, ожидающих обработки.<br>§lsetEnabled(boolean active)§r: разрешает или запрещает работу дробителя, как если бы сигнал красного камня был подан на панель управления.<br>§lisActive()§r: возвращает, дробит ли дробилка предметы в данный момент.<br>§lgetInputStack(int pos)§r: возвращает стек в указанной позиции в очереди (очередь начинается с 1).<br>§lgetCurrentMaxProgress()§r и §lgetCurrentProgress()§r
+ie.manual.entry.computer.crusher1=предназначены для использования вместе, они возвращают количество RF, необходимое для дробления текущего входящего предмета, и энергию, уже использованную при обработке текущего предмета.<br>§lgetMaxEnergyStored()§r: возвращает максимальное количество энергии, хранящейся в данной дробилке.<br>§lgetEnergyStored()§r: возвращает количество энергии, накопленной в данной дробилке.
+
+ie.manual.entry.computer.dieselgen.name=Дизельный генератор (PC)
+ie.manual.entry.computer.dieselgen.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.dieselgen0=§lsetEnabled(boolean active)§r: разрешает или запрещает работу дизельного генератора.<br>§lisActive()§r: возвращает информацию, работает ли дизельный генератор.<br>§lgetTankInfo()§r: возвращает информацию о внутреннем баке дизельного генератора.
+
+ie.manual.entry.computer.energymeter.name=Измеритель напряжения (PC)
+ie.manual.entry.computer.energymeter.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.energymeter0=Нижний блок Измерителя может быть подключен к компьютеру. Он предоставит единственный метод §lgetAvgEnergy()§r, который возвращает среднее количество энергии за такт, переданное через Измеритель за последние 20 тактов.
+
+ie.manual.entry.computer.excavator.name=Роторный экскаватор (PC)
+ie.manual.entry.computer.excavator.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.excavator0=§lisActive()§r: возвращает, работает ли экскаватор. Не сообщает о наличии полезных ископаемых.<br>§lsetEnabled(boolean active)§r: разрешает или запрещает работу экскаватора.<br>§lgetEnergyStored()§r: возвращает количество энергии, хранящейся в настоящее время в этом экскаваторе.<br>§lgetMaxEnergyStored()§r: возвращает максимальное количество энергии, которое может быть запасено в этом экскаваторе.
+
+ie.manual.entry.computer.squeezerAndFermenter.name=Ферментер и выжималка (PC)
+ie.manual.entry.computer.squeezerAndFermenter.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.squeezerAndFermenter0=Поддержка компьютеров для ферментеров и выжималок очень похожи. Компьютер может быть подключен в любом месте мультиблока.<br>§lgetRecipe(int slot)§r: возвращает 3 таблицы и 1 целое число, описывающие рецепт, который имеет в качестве входа элемент в указанном входном слоте (1-9). Первая таблица - входной стек, вторая таблица - выходной элемент, третья таблица - выходная жидкость, а целое число - время, необходимое для обработки этого рецепта. Если рецепт не найден, возвращается только
+ie.manual.entry.computer.squeezerAndFermenter1=строка "No recipe found".<br>§lgetInputStack(int slot)§r: возвращает стек в указанном входном слоте (1-9).<br>§lgetOutputStack()§r: возвращает стек в выходном слоте элемента.<br>§lgetFluid()§r: возвращает выходной резервуар для жидкости.<br>§lgetEmptyCannisters§r: возвращает стопку пустых канистр в верхнем правом слоте.<br>§lgetFilledCannisters()§r: возвращает стопку заполненных канистр в правом нижнем слоте.<br>§lgetEnergyStored§r: возвращает количество энергии, запасенной в этой машине.
+ie.manual.entry.computer.squeezerAndFermenter2=§lgetMaxEnergyStored()§r: возвращает максимальное количество энергии, которая может храниться в этой машине.
+
+ie.manual.entry.computer.floodlight.name=Прожектор (PC)
+ie.manual.entry.computer.floodlight.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.floodlight0=Ниже предполагается, что прожектор установлен на земле. Прожектор может быть подключен к компьютеру к нижней стороне. После поворота прожектора с помощью компьютера необходимо подождать одну секунду, прежде чем вы сможете повернуть его снова.<br>§lturnAroundXZ(boolean dir)§r: поворачивает прожектор по или против часовой стрелки.<br>§lturnAroundY(boolean dir)§r: изменяет угол наклона прожектора.<br>§lcanTurn()§r: возвращает, может ли прожектор еще раз повернуться.
+ie.manual.entry.computer.floodlight1=§lwaitForTimeout()§r: ожидает, пока прожектор снова сможет повернуться. Доступно только при использовании ComputerCraft.<br>§lsetEnabled(boolean on)§r: включает или выключает прожектор.<br>§lisActive()§r: возвращает, активен ли прожектор в данный момент.<br>§lgetEnergyStored()§r: возвращает количество энергии, запасенной в прожекторе.<br>§lgetMaxEnergyStored()§r: возвращает макс. количество энергии, которое может быть сохранено в прожекторе.
+
+ie.manual.entry.computer.refinery.name=Переработка биодизеля (PC)
+ie.manual.entry.computer.refinery.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.refinery0=§lgetInputFluidTanks()§r: возвращает таблицу, хранящую входные резервуары по ключам "input1" и "input2".<br>§lgetOutputTank()§r: возвращает выходной резервуар.<br>§lgetRecipe()§r: возвращает таблицу, содержащую входные жидкости в ключах "input1" и "input2" и выходную жидкость в ключе "output".<br>§lsetEnabled(boolean on)§r: разрешает или запрещает запуск Переработки.<br>§lisValidRecipe()§r: возвращает, существует ли рецепт с текущими входными жидкостями.
+ie.manual.entry.computer.refinery1=§lgetEmptyCannisters()§r: возвращает таблицу, содержащую стопки пустых канистр, ключи "input1" и "input2" для входных резервуаров, ключ "output" для выходного резервуара.<br>§lgetMaxEnergyStored()§r: возвращает максимальное количество энергии, которое можно хранить в данной Переработке.<br>§lgetEnergyStored()§r: возвращает количество энергии, хранящейся в данной Переработке.
+
+ie.manual.entry.computer.assembler.name=Сборочный автомат (PC)
+ie.manual.entry.computer.assembler.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.assembler0=Нижняя строка Сборщика может быть подключена к компьютеру.<br>§lhasIngredients(int recipe)§r: возвращает, имеются ли ингредиенты для указанного рецепта (1-3).<br>§lsetEnabled(int slot, boolean on)§r: включает или выключает указанный рецепт (1-3). Если рецепт отключен, он не будет создан, даже если материалы доступны.<br>§lgetRecipe(int recipe)l§r: возвращает таблицу, содержащую указанный рецепт (0-2). Ключи "in1", "in2", ..., "in9" хранят входные данные рецепта, ключ "out" - выходные данные.
+ie.manual.entry.computer.assembler1=§lgetTank(int tank)§r: возвращает указанный резервуар (1-3).<br>§lgetMaxEnergyStored()§r: возвращает максимальное количество энергии, которое может быть сохранено в Сборщике.<br>§lgetEnergyStored()§r: возвращает количество энергии, хранящейся в Сборщике.<br>§lgetStackInSlot(int slot)§r: возвращает стек в указанном входном слоте (1-18).<br>§lgetBufferStack(recipe:int)§r: возвращает выходной буфер-слот для указанного рецепта (1-3).
+
+ie.manual.entry.computer.bottlingMachine.name=Разливочная машина (PC)
+ie.manual.entry.computer.bottlingMachine.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.bottlingMachine0=Блок в нижней середине передней части Разливочной машины и задний нижний ряд могут быть подключены к компьютеру. Канистра считается заполненной, если она прошла через "чёрный ящик" на конвейере.<br>§lgetFluid()§r: возвращает внутренний резервуар для жидкости разлив. машины.<br>§lgetEmptyCannister(int n)§r: возвращает n-ую пустую канистру, начиная с того места, где канистры поступают в машину. Таблица содержит текущий прогресс розлива в тиках в ключе "process".
+ie.manual.entry.computer.bottlingMachine1=Бутылка наполняется при прогрессе 72 и выводится при прогрессе 120.<br>§lgetEmptyCannisterCount()§r: возвращает количество пустых канистр в разлив. машине.<br>§lgetFilledCannister(int n)§r: возвращает n-ую заполненную канистру, начиная с "чёрного ящика". Возвращаемая таблица содержит прогресс наполнения, хранящийся в ключе "process".<br>§lgetFilledCannisterCount()§r: возвращает количество заполненных канистр в разлив. машине.
+ie.manual.entry.computer.bottlingMachine2=§lgetEnergyStored()§r: возвращает количество энергии, запасенной в разлив. машине.<br>§lgetMaxEnergyStored()§r: возвращает максимальное количество энергии, хранящейся в данной разлив. машине.<br>§lsetEnabled(boolean on)§r: включает или выключает разлив. машину.
+
+ie.manual.entry.computer.capacitor.name=Конденсаторы (PC)
+ie.manual.entry.computer.capacitor.subtext=Перевод может быть неточным!
+ie.manual.entry.computer.capacitor0=Любой конденсатор может быть подключен к компьютеру с любой стороны.<br>§lgetEnergyStored()§r: возвращает количество накопленной энергии.<br>§lgetMaxEnergyStored()§r: возвращает количество энергии, которое может быть сохранено.
