@@ -18,4 +18,6 @@
 Положить архив в папку ...\.minecraft\resourcepacks. В игре зайти в Настройки -> Пакеты ресурсов -> и загрузить данный ресурспак. 
 Желательно установить также [OptiFine](https://optifine.net/downloads), [ClientFixer](https://github.com/gamerforEA/Minecraft-ClientFixer/releases?page=2) (**без Оптифайна "фиксер" работать не будет**) и специальные [шрифты](https://mods2.ru/minecraft/402-clientfixer.html) (там несколько вариантов шрифтов, устанавливаются они тоже как ресурспак).
 
+Для желающих немножко задонатить: 5536 9138 1682 8392
+
 Приятной игры :)
